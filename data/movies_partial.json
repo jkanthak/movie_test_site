@@ -1,0 +1,3036 @@
+{
+	"success":"true",
+	"rows":[
+	{
+		"id":"001",
+		"title":"Office Space",
+		"director":"Mike Judge",
+		"released":"1999",
+		"genre":"1",
+		"tagline":"Work sucks",
+		"cast":"Ron Livingston, Jennifer Aniston",
+		"summary":"Peter hates his job at a large, soulless corporation--until a hypnotherapist dies moments after putting Peter in a state of complete detachment. When Peter begins to rebel, he becomes a rising corporate star.",
+		"dvd":"063"
+	},{
+		"id":"002",
+		"title":"The Big Lebowski",
+		"director":"Joel Coen",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"The 'Dude' abides",
+		"cast":"Jeff Bridges,<br> John Goodman, Steve Buscemi",
+		"summary":"'Dude' Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+		"dvd":""
+	},{
+		"id":"003",
+		"title":"Fight Club",
+		"director":"David Fincher",
+		"released":"1999",
+		"genre":"3",
+		"tagline":"How much can you know about yourself?",
+		"cast":"Ed Norton,<br> Brad Pitt",
+		"summary":"An office employee and a soap salesman build a global organization to help vent male aggression.",
+		"dvd":"040"
+	},{
+		"id":"004",
+		"title":"Reign of Fire",
+		"director":"Rob Bowman",
+		"released":"2002",
+		"genre":"3",
+		"tagline":"Fight fire with fire",
+		"cast":"Matthew McConaughey, Christian Bale",
+		"summary":"A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.",
+		"dvd":"058"
+	},{
+		"id":"005",
+		"title":"One Hour Photo",
+		"director":"Mark Romanek",
+		"released":"2002",
+		"genre":"4",
+		"tagline":"There's nothing more dangerous than a familiar face.",
+		"cast":"Robin Williams",
+		"summary":"An employee of a one-hour photo lab becomes obsessed with a young suburban family.",
+		"dvd":"058"
+	},{
+		"id":"006",
+		"title":"Reds",
+		"director":"Warren Beatty",
+		"released":"1981",
+		"genre":"8",
+		"tagline":"",
+		"cast":"Warren Beatty, Diane Keaton",
+		"summary":"A radical American journalist becomes involved with the Communist revolution in Russia and hopes to bring its spirit and idealism to the United States.",
+		"dvd":"056"
+	},{
+		"id":"007",
+		"title":"Doctor Zhivago",
+		"director":"Zhivago",
+		"released":"1965",
+		"genre":"2",
+		"tagline":"A love caught in the fire of revolution",
+		"cast":"Omar Sharif, Julie Christie",
+		"summary":"A Russian doctor/poet, although married, falls for a political activist's wife and struggles through the Bolshevik Revolution.",
+		"dvd":"056"
+	},{
+		"id":"008",
+		"title":"The Usual Suspects",
+		"director":"Bryan Singer",
+		"released":"1995",
+		"genre":"4",
+		"tagline":"The truth is always in the last place you look.",
+		"cast":"Kevin Spacey, Gabriel Byrne",
+		"summary":"A shipful of heroin is destroyed, dozens are dead, and the only survivor tells a twisted story beginning with five career crooks in a seemingly random police lineup.",
+		"dvd":"056"
+	},{
+		"id":"009",
+		"title":"Three Kings",
+		"director":"David O. Russell",
+		"released":"1999",
+		"genre":"7",
+		"tagline":"They're deserters and thieves, but in the nicest way.",
+		"cast":"George Clooney, Mark Wahlberg, Ice Cube",
+		"summary":"In the chaotic aftermath of the Persian Gulf War, four U.S. soldiers set out to steal millions in gold originally stolen from Kuwait.",
+		"dvd":"056"
+	},{
+		"id":"010",
+		"title":"Hancock",
+		"director":"Peter Berg",
+		"released":"2008",
+		"genre":"3",
+		"tagline":"He's saving the world, whether we like it or not.",
+		"cast":"Will Smith,<br> Charlize Theron, Jason Bateman",
+		"summary":"A crude, hard-drinking superhero, despised by the public, discovers a past relationship with the wife of the public relations man who's trying to repair his image.",
+		"dvd":"054"
+	},{
+		"id":"011",
+		"title":"Bruce Almighty",
+		"director":"Tom Shadyac",
+		"released":"2003",
+		"genre":"1",
+		"tagline":"The guy next door just became the Guy upstairs.",
+		"cast":"Jim Carrey, Morgan Freeman",
+		"summary":"A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.",
+		"dvd":"054"
+	},{
+		"id":"012",
+		"title":"Point of No Return",
+		"director":"John Badham",
+		"released":"1993",
+		"genre":"3",
+		"tagline":"The government gave her a choice. Death, or life as an assassin.",
+		"cast":"Bridget Fonda, Gabriel Byrne, Dermot Mulroney",
+		"summary":"A cop-street tough is sentenced to die by lethal injection for killing a cop, but she wakes up after her execution to learn she will instead be trained as a secret government assassin.",
+		"dvd":"054"
+	},{
+		"id":"013",
+		"title":"Mystery Men",
+		"director":"Kinka Usher",
+		"released":"1999",
+		"genre":"1",
+		"tagline":"We're not your classic heroes, we're the other guys.",
+		"cast":"Ben Stiller, Janeane Garofalo, Hank Azaria, William H. Macy",
+		"summary":"A group of inept amateur superheroes must try to save the day when a supervillain threatens to destroy their city.",
+		"dvd":"054"
+	},{
+		"id":"014",
+		"title":"Bee Season",
+		"director":"Scott McGehee, David Siegel",
+		"released":"2005",
+		"genre":"2",
+		"tagline":"Words may define us, but it's love that connects us.",
+		"cast":"Richard Gere, Juliette Binoche",
+		"summary":"A theology professor avoids dealing with his collapsing marriage by immersing himself in his 11 year-old daughter's quest to become a spelling bee champion.",
+		"dvd":"054"
+	},{
+		"id":"015",
+		"title":"Match Point",
+		"director":"Woody Allen",
+		"released":"2006",
+		"genre":"2",
+		"tagline":"There are no little secrets.",
+		"cast":"Scarlett Johansson, Jonathan Rhys Meyers, Emily Mortimer",
+		"summary":"At a turning point in his life, a former tennis pro falls for a femme-fatal type who happens to be dating his friend and soon-to-be brother-in-law.",
+		"dvd":"063"
+	},{
+		"id":"016",
+		"title":"The Mothman Prophesies",
+		"director":"Mark Pellington",
+		"released":"2002",
+		"genre":"5",
+		"tagline":"Based on true events.",
+		"cast":"Richard Gere, Laura Linney",
+		"summary":"A reporter is drawn to a small West Virginia town to investigate a series of strange events, including psychic visions and the appearance of bizarre entities.",
+		"dvd":"063"
+	},{
+		"id":"017",
+		"title":"My Left Foot",
+		"director":"Jim Sheridan",
+		"released":"1989",
+		"genre":"2",
+		"tagline":"A film about life, laughter, and the occasional miracle.",
+		"cast":"Daniel Day-Lewis",
+		"summary":"The story of Christy Brown, who was born with cerebral palsy. He learned to paint and write with his only controllable limb - his left foot.",
+		"dvd":"063"
+	},{
+		"id":"018",
+		"title":"Scotland, PA",
+		"director":"Billy Morrissette",
+		"released":"2002",
+		"genre":"4",
+		"tagline":"Greasy spoon. Bloody murder.",
+		"cast":"James LeGros, Maura Tierney, Christopher Walken",
+		"summary":"Hard-working doofus Joe McBeth and his ambitious wife Pat scheme and murder to take over a burger joint.",
+		"dvd":"063"
+	},{
+		"id":"019",
+		"title":"Chaos Theory",
+		"director":"Marcos Siega",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"He planned his life like clockwork... until things started going cuckoo.",
+		"cast":"Ryan Reynolds, Emily Mortimer, Stuart Townsend",
+		"summary":"Frank, a compulsive list-maker and paragon of punctuality, gets behind schedule one day by a mere ten minutes and watches his world fall down around him.",
+		"dvd":"059"
+	},{
+		"id":"020",
+		"title":"Enemy of the State",
+		"director":"Tony Scott",
+		"released":"1998",
+		"genre":"4",
+		"tagline":"It's not paranoia if they're really after you.",
+		"cast":"Will Smith, Gene Hackman",
+		"summary":"A lawyer becomes a target by a corrupt politician and his NSA goons when he accidentally receives key evidence to a serious, politically motivated crime. ",
+		"dvd":"059"
+	},{
+		"id":"021",
+		"title":"Friday Night Lights",
+		"director":"Peter Berg, Josh Pate",
+		"released":"2004",
+		"genre":"2",
+		"tagline":"In the small town of Dillon, Texas, one night matters: Friday night.",
+		"cast":"Billy Bob Thornton",
+		"summary":"The economically depressed town of Odessa, Texas pins all of its hopes on its heroic high school football team, the Permian High Panthers.",
+		"dvd":"059"
+	},{
+		"id":"022",
+		"title":"Garden State",
+		"director":"Zach Braff",
+		"released":"2004",
+		"genre":"1",
+		"tagline":"Family: a group of people who miss the same imaginary place.",
+		"cast":"Zach Braff, Natalie Portman",
+		"summary":"A quietly troubled young man returns home for his mother's funeral after being estranged from his family for a decade.",
+		"dvd":"059"
+	},{
+		"id":"023",
+		"title":"Juno",
+		"director":"Jason Reitman",
+		"released":"2007",
+		"genre":"1",
+		"tagline":"A comedy about growing up...and the bumps along the way.",
+		"cast":"Ellen Page, Jason Bateman, Michael Cera",
+		"summary":"Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child.",
+		"dvd":"059"
+	},{
+		"id":"024",
+		"title":"Minority Report",
+		"director":"Steven Spielberg",
+		"released":"2002",
+		"genre":"4",
+		"tagline":"Everybody runs.",
+		"cast":"Tom Cruise, Colin Farrell, Samantha Morton",
+		"summary":"In the future, criminals are caught before they commit their crimes, but one of the officers in the special unit is accused and sets out to prove his innocence.",
+		"dvd":"058"
+	},{
+		"id":"025",
+		"title":"To Kill a Mockingbird",
+		"director":"Robert Mulligan",
+		"released":"1962",
+		"genre":"2",
+		"tagline":"It's a sin to kill a mockibird.",
+		"cast":"Gregory Peck",
+		"summary":"Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
+		"dvd":"058"
+	},{
+		"id":"026",
+		"title":"The Queen",
+		"director":"Stephen Frears",
+		"released":"2006",
+		"genre":"8",
+		"tagline":"The queen of a nation vs. the princess of hearts",
+		"cast":"Helen Mirren, Michael Sheen, James Cromwell",
+		"summary":"After the death of Princess Diana, HM Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted.",
+		"dvd":"057"
+	},{
+		"id":"027",
+		"title":"The Devil Wears Prada",
+		"director":"David Frankel",
+		"released":"2006",
+		"genre":"1",
+		"tagline":"A million girls would kill to have her job. She's not one of them.",
+		"cast":"Anne Hathaway, Meryl Streep, Stanley Tucci",
+		"summary":"A naive young woman comes to New York and scores a job as the assistant to one of the city's biggest magazine editors, the ruthless and cynical Miranda Priestly.",
+		"dvd":"057"
+	},{
+		"id":"028",
+		"title":"Traitor",
+		"director":"Jeffrey Nachmanoff",
+		"released":"2008",
+		"genre":"4",
+		"tagline":"The truth is complicated.",
+		"cast":"Don Cheadle",
+		"summary":"When a straight arrow FBI agent heads up the investigation into a dangerous international conspiracy, all clues seem to lead to former U.S. Special Operations officer.",
+		"dvd":"057"
+	},{
+		"id":"029",
+		"title":"Eternal Sunshine of the Spotless Mind",
+		"director":"Michel Gondry",
+		"released":"2004",
+		"genre":"2",
+		"tagline":"Our memories makes us who we are.",
+		"cast":"Jim Carrey, Kate Winslet, Tom Wilkinson",
+		"summary":"An ex-couple undergo a procedure to erase each other from their memories, but it is only through the process of loss that they discover what they had to begin with.",
+		"dvd":"042"
+	},{
+		"id":"030",
+		"title":"Marathon Man",
+		"director":"John Schlesinger",
+		"released":"1976",
+		"genre":"4",
+		"tagline":"'Is it safe?'",
+		"cast":"Dustin Hoffman, Laurence Olivier, Roy Scheider",
+		"summary":"A graduate history student is caught in the middle of an international conspiracy involving stolen diamonds, an exiled Nazi war criminal, and a rogue government agent.",
+		"dvd":"065"		
+	},{
+		"id":"031",
+		"title":"Boys From Brazil",
+		"director":"Franklin J. Schaffner",
+		"released":"1978",
+		"genre":"4",
+		"tagline":"If they survive, will we?",
+		"cast":"Gregory Peck, Laurence Olivier, James Mason",
+		"summary":"A Nazi hunter in Paraguay discovers a sinister and bizarre plot to rekindle the Third Reich.",
+		"dvd":"065"
+	},{
+		"id":"032",
+		"title":"Sense and Sensibility",
+		"director":"Ang Lee",
+		"released":"1995",
+		"genre":"1",
+		"tagline":"Lose your heart and come to your senses.",
+		"cast":"Emma Thompson, Kate Winslet",
+		"summary":"Rich Mr. Dashwood dies, leaving his second wife and her daughters poor by the rules of inheritance.",
+		"dvd":"065"
+	},{
+		"id":"033",
+		"title":"The Van",
+		"director":"Stephen Frears",
+		"released":"1997",
+		"genre":"1",
+		"tagline":"If they were any closer friends, they'd probably kill each other.",
+		"cast":"Colm Meaney",
+		"summary":"Fired from his job at the bakery, Bimbo and his best mate go into business for themselves and purchase a fish and chips van.",
+		"dvd":"065"
+	},{
+		"id":"034",
+		"title":"Doubt",
+		"director":"John Patrick Shanley",
+		"released":"2008",
+		"genre":"2",
+		"tagline":"There is no evidence. There are no witnesses. But for one, there is no doubt.",
+		"cast":"Meryl Streep, Philip Seymour Hoffman",
+		"summary":"A nun confronts a priest after suspecting him of sexually abusing a black student. He denies the charges. Quick-fire dialogue tackles themes of religion, morality, and authority.",
+		"dvd":"066"
+	},{
+		"id":"035",
+		"title":"The Governess",
+		"director":"Sandra Goldbacher",
+		"released":"1998",
+		"genre":"2",
+		"tagline":"We can be anyone we want.",
+		"cast":"Minnie Driver, Tom Wilkinson",
+		"summary":"When privileged Rosina da Silva's father dies, she passes herself off as a gentile and finds employment with a family in faraway Scotland.",
+		"dvd":"066"
+	},{
+		"id":"036",
+		"title":"The Snapper",
+		"director":"Stephen Frears",
+		"released":"1993",
+		"genre":"1",
+		"tagline":"She's not telling.",
+		"cast":"Colm Meaney, Tina Kellegher",
+		"summary":"Sharon, 20, lives with her parents and many brothers and sisters. When she gets pregnant and refuses to name the father, she becomes the talk of the town. Set in Ireland.",
+		"dvd":"066"
+	},{
+		"id":"037",
+		"title":"Speed",
+		"director":"Jan de Bont",
+		"released":"1994",
+		"genre":"3",
+		"tagline":"Get ready for rush hour.",
+		"cast":"Keanu Reeves, Dennis Hopper, Sandra Bullock",
+		"summary":"A young cop must save the passengers of a bus that has a bomb set to explode if the bus slows below 50 MPH.",
+		"dvd":"066"
+	},{
+		"id":"038",
+		"title":"A History of Violence",
+		"director":"David Cronenberg",
+		"released":"2005",
+		"genre":"2",
+		"tagline":"Tom Stall had the perfect life...until he became a hero.",
+		"cast":"Viggo Mortensen, Maria Bello, Ed Harris",
+		"summary":"A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core.",
+		"dvd":"064"
+	},{
+		"id":"039", 
+		"title":"Pay It Forward",
+		"director":"Mimi Leder",
+		"released":"2000",
+		"genre":"2",
+		"tagline":"Three imperfect people. One perfect idea.",
+		"cast":"Kevin Spacey, Haley Joel Osment, Helen Hunt",
+		"summary":"Trevor McKinney believes in the goodness of human nature. Like many other kids, he's determined to change the world for the better. Unlike most other kids, he succeeds.",
+		"dvd":"064"
+	},{
+		"id":"040",
+		"title":"The Wrestler",
+		"director":"Darren Aronofsky",
+		"released":"2009",
+		"genre":"2",
+		"tagline":"Love. Pain. Glory.",
+		"cast":"Mickey Rourke, Marisa Tomei, Evan Rachel Wood",
+		"summary":"A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.",
+		"dvd":"060"
+	},{
+		"id":"041",
+		"title":"No Country For Old Men",
+		"director":"Ethan Coen, Joel Coen",
+		"released":"2007",
+		"genre":"4",
+		"tagline":"There are no clean getaways",
+		"cast":"Tommy Lee Jones, Javier Bardem",
+		"summary":"Violence and mayhem ensue after a hunter stumbles upon some dead bodies, a stash of heroin and more than $2 million in cash near the Rio Grande.",
+		"dvd":"060"
+	},{
+		"id":"042",
+		"title":"What Women Want",
+		"director":"Nancy Meyers",
+		"released":"2000",
+		"genre":"1",
+		"tagline":"Finally, a man is listening.",
+		"cast":"Mel Gibson, Helen Hunt, Marisa Tomei",
+		"summary":"After an accident, a chauvenistic executive gains the ability to hear what women are really thinking.",
+		"dvd":"060"
+	},{
+		"id":"043",
+		"title":"Wag the Dog",
+		"director":"Barry Levinson",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"A comedy about truth, justice, and other special effects.",
+		"cast":"Dustin Hoffman, Robert De Niro, Anne Heche",
+		"summary":"Before elections, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to distract from a presidential sex scandal.",
+		"dvd":"060"
+	},{
+		"id":"044",
+		"title":"Any Given Sunday",
+		"director":"Oliver Stone",
+		"released":"1999",
+		"genre":"3",
+		"tagline":"Play or be played.",
+		"cast":"Al Pacino, Dennis Quaid, Cameron Diaz",
+		"summary":"Aging NFL coach Tony D'Amato is forced to reevaluate his time-tested values and strategies, and confront the fact that the game may be passing him by.",
+		"dvd":"069"
+	},{
+		"id":"045",
+		"title":"Falling Down",
+		"director":"Joel Schumacher",
+		"released":"1993",
+		"genre":"2",
+		"tagline":"An ordinary man at war with the everyday world.",
+		"cast":"Michael Douglas, Robert Duvall, Barbara Hershey",
+		"summary":"An unemployed defense worker frustrated with the various flaws he sees in society, begins to psychotically and violently lash out against them.",
+		"dvd":"069"
+	},{
+		"id":"046",
+		"title":"Milk",
+		"director":"Gus Van Sant",
+		"released":"2009",
+		"genre":"8",
+		"tagline":"Never blend in.",
+		"cast":"Sean Penn,<br> Josh Brolin,<br> Emile Hirsch",
+		"summary":"The story of Harvey Milk, and his struggles as an American gay activist who fought for gay rights and became California's first openly gay elected official.",
+		"dvd":"069"
+	},{
+		"id":"047",
+		"title":"My Cousin Vinny",
+		"director":"Jonathan Lynn",
+		"released":"1992",
+		"genre":"1",
+		"tagline":"",
+		"cast":"Joe Pesci, Marisa Tomei, Ralph Macchio",
+		"summary":"Bill and Stan are mistaken for murderers while on vacation, and Bill's family sends his cousin to defend them in his first case as a lawyer.",
+		"dvd":"069"
+	},{
+		"id":"048",
+		"title":"The Changeling",
+		"director":"Clint Eastwood",
+		"released":"2008",
+		"genre":"2",
+		"tagline":"To find her son, she did what no one else dared.",
+		"cast":"Angelina Jolie",
+		"summary":"A grief-stricken mother takes on the LAPD when it stubbornly tries to pass off an impostor as her missing child.",
+		"dvd":"068"
+	},{
+		"id":"049",
+		"title":"The Fabulous Baker Boys",
+		"director":"Steve Kloves",
+		"released":"1989",
+		"genre":"1",
+		"tagline":"For 31 years, it's been two tuxedos and two pianos...but times change.",
+		"cast":"Jeff Bridges, Michelle Pfeiffer, Beau Bridges",
+		"summary":"Two brothers hire a female singer for their piano lounge act, but she makes them re-evaluate where they're going, and how honest they have been with each other.",
+		"dvd":"068"
+	},{
+		"id":"050",
+		"title":"Flash of Genius",
+		"director":"Marc Abraham",
+		"released":"2008",
+		"genre":"2",
+		"tagline":"They had the power. He had the truth.",
+		"cast":"Greg Kinnear",
+		"summary":"Robert Kearns takes on the Detroit automakers who he claims stole his idea for the intermittent windshield wiper.",
+		"dvd":"068"
+	},{
+		"id":"051",
+		"title":"Frost/Nixon",
+		"director":"Ron Howard",
+		"released":"2009",
+		"genre":"8",
+		"tagline":"400 million people were waiting for the truth.",
+		"cast":"Frank Langella, Michael Sheen, Kevin Bacon",
+		"summary":"A dramatic retelling of the post-Watergate television interviews between British talk-show host David Frost and former president Richard Nixon.",
+		"dvd":"068"
+	},{
+		"id":"052",
+		"title":"Ghost Town",
+		"director":"David Koepp",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"He sees dead people, and they're really quite annoying.",
+		"cast":"Ricky Gervais, Greg Kinnear, Tea Leoni",
+		"summary":"When an obnoxious dentist dies unexpectedly, but is revived after seven minutes, he wakes up to discover that he now has the annoying ability to see ghosts.",
+		"dvd":"068"
+	},{
+		"id":"053",
+		"title":"Thirteen Days",
+		"director":"Roger Donaldson",
+		"released":"2001",
+		"genre":"8",
+		"tagline":"You'll never believe how close we came",
+		"cast":"Kevin Costner",
+		"summary":"The Kennedy brothers try to prevent a nuclear holocaust during the two-week Cuban missile crisis in October 1962.",
+		"dvd":"062"
+	},{
+		"id":"054",
+		"title":"The Count of Monte Cristo",
+		"director":"Kevin Reynolds",
+		"released":"2002",
+		"genre":"7",
+		"tagline":"Prepare for adventure. Count on revenge.",
+		"cast":"James Caviezel, Guy Pearce, Richard Harris",
+		"summary":"A young man, betrayed and falsely imprisoned, escapes and uses a hidden treasure to exact his revenge.",
+		"dvd":"062"			
+	},{
+		"id":"055",
+		"title":"Sunshine",
+		"director":"Danny Boyle",
+		"released":"2007",
+		"genre":"4",
+		"tagline":"If it dies, so do we.",
+		"cast":"Cillian Murphy, Rose Byrne, Chris Evans",
+		"summary":"Fifty years into the future, a team of astronauts are sent to re-ignite the dying sun.",
+		"dvd":"062"			
+	},{
+		"id":"056",
+		"title":"Stigmata",
+		"director":"Rupert Wainwright",
+		"released":"1999",
+		"genre":"4",
+		"tagline":"You don't have to believe to suffer",
+		"cast":"Patricia Arquette, Gabriel Byrne",
+		"summary":"A researcher of miracles on behalf of the Vatican must discover the truth behind a hairdresser mysteriously afflicted by stigmata.",
+		"dvd":"062"			
+	},{
+		"id":"057",
+		"title":"That Thing You Do",
+		"director":"Tom Hanks",
+		"released":"1996",
+		"genre":"1",
+		"tagline":"Strap yourself in, kids.",
+		"cast":"Tom Hanks, Liv Tyler, Charlize Theron",
+		"summary":"A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+		"dvd":"067"			
+	},{
+		"id":"058",
+		"title":"Get Smart",
+		"director":"Peter Segal",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"Saving The World. And Loving It.",
+		"cast":"Steve Carell, Anne Hathaway, Alan Arkin",
+		"summary":"Maxwell Smart, Agent 86, battles the forces of KAOS with the more-competent Agent 99 at his side.",
+		"dvd":"067"			
+	},{
+		"id":"059",
+		"title":"Stranger Than Fiction",
+		"director":"Marc Forster",
+		"released":"2006",
+		"genre":"1",
+		"tagline":"Harold isn't crazy. He's just written that way.",
+		"cast":"Will Ferrell, Maggie Gyllenhaal, Emma Thompson, Dustin Hoffman",
+		"summary":"An IRS auditor suddenly finds himself the subject of an authorial narration only he can hear.",
+		"dvd":"067"			
+	},{
+		"id":"060",
+		"title":"Tin Men",
+		"director":"Barry Levinson",
+		"released":"1987",
+		"genre":"1",
+		"tagline":"The American Dream changes. The people who sell it don't.",
+		"cast":"Richard Dreyfuss, Danny DeVito, Barbara Hershey",
+		"summary":"A minor car accident drives two rival aluminum-siding salesmen to the ridiculous extremes of man versus man in 1963 Baltimore.",
+		"dvd":"067"			
+	},{
+		"id":"061",
+		"title":"I Am Legend",
+		"director":"Francis Lawrence",
+		"released":"2007",
+		"genre":"7",
+		"tagline":"The last man on earth is not alone.",
+		"cast":"Will Smith",
+		"summary":"Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+		"dvd":"067"		
+	},{
+		"id":"062",
+		"title":"The Name of the Rose",
+		"director":"Jean-Jacques Annaud",
+		"released":"1986",
+		"genre":"4",
+		"tagline":"They believed in God, but traded with the Devil.",
+		"cast":"Sean Connery, Christian Slater",
+		"summary":"An intellectually nonconformist monk investigates a series of mysterious deaths in an isolated abbey.",
+		"dvd":"047"			
+	},{
+		"id":"063",
+		"title":"The Ice Storm",
+		"director":"Ang Lee",
+		"released":"1997",
+		"genre":"2",
+		"tagline":"It was 1973, and the climate was changing.",
+		"cast":"Kevin Kline, Joan Allen, Sigourney Weaver",
+		"summary":"In 1973 suburban Connecticut, two middle class families experimenting with casual sex find their lives out of control.",
+		"dvd":"047"			
+	},{
+		"id":"064",
+		"title":"Remains of the Day",
+		"director":"James Ivory",
+		"released":"1993",
+		"genre":"2",
+		"tagline":"When he's in the room it's even more empty.",
+		"cast":"Anthony Hopkins, Emma Thompson",
+		"summary":"A butler who sacrificed body and soul to service in the years before WWII realizes too late how misguided his loyalty has been.",
+		"dvd":"047"			
+	},{
+		"id":"065",
+		"title":"Vanilla Sky",
+		"director":"Cameron Crowe",
+		"released":"2001",
+		"genre":"4",
+		"tagline":"Open your eyes.",
+		"cast":"Tom Cruise, Penelope Cruz, Cameron Diaz",
+		"summary":"A successful publisher finds his life taking a turn for the surreal after a car accident with a jaded lover.",
+		"dvd":"047"			
+	},{
+		"id":"066",
+		"title":"Bounce",
+		"director":"Don Roos",
+		"released":"2000",
+		"genre":"2",
+		"tagline":"Two strangers fell in love. One knew it wasn't by chance.",
+		"cast":"Ben Affleck, Gwyneth Paltrow",
+		"summary":"A man switches plane tickets with another, who then dies when the plane crashes. In an attempt to redeem himself, he tries to help the dead man's beautiful widow.",
+		"dvd":"046"			
+	},{
+		"id":"067",
+		"title":"Defending Your Life",
+		"director":"Albert Brooks",
+		"released":"1991",
+		"genre":"1",
+		"tagline":"Here's what really happens after you die.",
+		"cast":"Albert Brooks, Meryl Streep, Rip Torn",
+		"summary":"Yuppie Daniel Miller is killed in a car accident and goes to Judgment City, an afterlife in which he must  prove that he has overcome his many fears.",
+		"dvd":"046"			
+	},{
+		"id":"068",
+		"title":"October Sky",
+		"director":"Joe Johnston",
+		"released":"1999",
+		"genre":"2",
+		"tagline":"Based on a true story",
+		"cast":"Jake Gyllenhaal, Chris Cooper, Laura Dern",
+		"summary":"A coal miner's is inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+		"dvd":"046"			
+	},{
+		"id":"069",
+		"title":"Being John Malkovich",
+		"director":"Spike Jonze",
+		"released":"1999",
+		"genre":"1",
+		"tagline":"Be all that someone else can be.",
+		"cast":"John Cusack, Cameron Diaz, Catherine Keener",
+		"summary":"A puppeteer discovers a portal that leads literally into the head of the movie star John Malkovich.",
+		"dvd":"046"					
+	},{
+		"id":"070",
+		"title":"Children of Men",
+		"director":"Alfonso Cuaron",
+		"released":"2007",
+		"genre":"5",
+		"tagline":"The future's a thing of the past.",
+		"cast":"Julianne Moore, Clive Owen",
+		"summary":"In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary.",
+		"dvd":"045"
+	},{
+		"id":"071",
+		"title":"Dan in Real Life",
+		"director":"Peter Hedges",
+		"released":"2007",
+		"genre":"1",
+		"tagline":"Life is so simple on paper.",
+		"cast":"Steve Carell, Juliette Binoche, Dane Cook",
+		"summary":"A widower and advice columnist finds out the woman he has fallen in love with is his brother's new girlfriend.",
+		"dvd":"045"
+	},{
+		"id":"072",
+		"title":"Jersey Girl",
+		"director":"Kevin Smith",
+		"released":"2004",
+		"genre":"1",
+		"tagline":"Forget who you were, accept who you are.",
+		"cast":"Ben Affleck, Liv Tyler, George Carlin",
+		"summary":"After his career is sidelined from an unexpected tragedy and a personal blowup, a single man must abandon his career and take care of his daughter.",
+		"dvd":"045"
+	},{
+		"id":"073",
+		"title":"Reservoir Dogs",
+		"director":"Quentin Tarantino",
+		"released":"1992",
+		"genre":"3",
+		"tagline":"It's a perfect crime. Now all they have to fear is each other.",
+		"cast":"Harvey Keitel, Tim Roth, Michael Madsen",
+		"summary":"After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+		"dvd":"045"
+	},{
+		"id":"074",
+		"title":"The Full Monty",
+		"director":"Peter Cattaneo",
+		"released":"1997",
+		"genre":"1",
+		"tagline":"Six men with nothing left to lose but their pants.",
+		"cast":"Robert Carlyle, Tom Wilkinson",
+		"summary":"Six unemployed steel workers seek a livelihood and self-respect by forming a male striptease act.",
+		"dvd":"045"
+	},{
+		"id":"075",
+		"title":"Without a Clue",
+		"director":"Thom Eberhardt",
+		"released":"1988",
+		"genre":"1",
+		"tagline":"Meet the world's greatest detective... and Sherlock Holmes.",
+		"cast":"Michael Caine, Ben Kingsley, Jeffrey Jones",
+		"summary":"A drunken actor posing as Sherlock Holmes is just a cover for the real detective - Dr .Watson. ",
+		"dvd":"044"
+	},{
+		"id":"076",
+		"title":"Little Miss Sunshine",
+		"director":"Jonathan Dayton, Valerie Faris",
+		"released":"2006",
+		"genre":"1",
+		"tagline":"Everyone just pretend to be normal.",
+		"cast":"Steve Carell, Toni Collette, Greg Kinnear",
+		"summary":"A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+		"dvd":"044"
+	},{
+		"id":"077",
+		"title":"The Contender",
+		"director":"Rod Lurie",
+		"released":"2000",
+		"genre":"2",
+		"tagline":"Sometimes you can assassinate a leader without firing a shot.",
+		"cast":"Joan Allen, Gary Oldman, Jeff Bridges",
+		"summary":"Laine Hanson is nominated to become the first female vice president, but information and disinformation about her past surface and threaten to de-rail her confirmation.",
+		"dvd":"044"
+	},{
+		"id":"078",
+		"title":"Shirley Valentine",
+		"director":"Lewis Gilbert",
+		"released":"1989",
+		"genre":"1",
+		"tagline":"No one thought she had the courage. Or the lingerie.",
+		"cast":"Pauline Collins, Tom Conti",
+		"summary":"A middle-aged Liverpool housewife feels her life has been wasted, until a rebellious trip to sunny Greece helps her see herself in a new light.",
+		"dvd":"044"
+	},{
+		"id":"079",
+		"title":"Crimson Tide",
+		"director":"Tony Scott",
+		"released":"1995",
+		"genre":"3",
+		"tagline":"Danger runs deep.",
+		"cast":"Gene Hackman, Denzel Washington",
+		"summary":"On a U.S. nuclear missile sub, a young first officer stages a mutiny to prevent his trigger-happy captain from launching his missiles before confirming his orders to do so.",
+		"dvd":"049"
+	},{
+		"id":"080",
+		"title":"Flightplan",
+		"director":"Robert Schwentke",
+		"released":"2005",
+		"genre":"4",
+		"tagline":"Could you prove that you're sane?",
+		"cast":"Jodie Foster",
+		"summary":"A bereaved woman and her daughter are flying home from Europe. At 30,000 feet the child vanishes and nobody admits she was ever on the plane.",
+		"dvd":"049"
+	},{
+		"id":"081",
+		"title":"The Shawshank Redemption",
+		"director":"Frank Darabont",
+		"released":"1994",
+		"genre":"2",
+		"tagline":"Fear can hold you prisoner. Hope can set you free.",
+		"cast":"Tim Robbins, Morgan Freeman",
+		"summary":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency. ",
+		"dvd":"049"
+	},{
+		"id":"082",
+		"title":"Thank You For Smoking",
+		"director":"Jason Reitman",
+		"released":"2006",
+		"genre":"1",
+		"tagline":"Don't hide the truth. Just filter it.",
+		"cast":"Aaron Eckhart, Maria Bello",
+		"summary":"Big Tobacco's chief spokesman spins on behalf of cigarettes while trying to remain a role model for his twelve-year-old son.",
+		"dvd":"048"
+	},{
+		"id":"083",
+		"title":"Forgetting Sarah Marshall",
+		"director":"Nicholas Stoller",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"A comedy about getting dumped, and taking it like a man.",
+		"cast":"Kristen Bell, Jason Segel, Paul Rudd",
+		"summary":"Heartbroken Peter takes a Hawaiian vacation to deal with recent break-up, but his ex shows up at the same resort with her new boyfriend.",
+		"dvd":"048"
+	},{
+		"id":"084",
+		"title":"The Forgotten",
+		"director":"Joseph Ruben",
+		"released":"2004",
+		"genre":"4",
+		"tagline":"Surrender your memories and you surrender yourself",
+		"cast":"Julianne Moore, Dominic West",
+		"summary":"Told that their children never existed, a man and woman soon discover that there's a much bigger enemy at work.",
+		"dvd":"048"
+	},{
+		"id":"085",
+		"title":"Get Shorty",
+		"director":"Barry Sonnenfeld",
+		"released":"1995",
+		"genre":"1",
+		"tagline":"The Mob is tough. But it's nothing like show business.",
+		"cast":"John Travolta, Gene Hackman, Rene Russo, Danny DeVito",
+		"summary":"A mobster travels to Hollywood to collect a debt and discovers that the movie business is much the same as his current job.",
+		"dvd":"048"
+	},{
+		"id":"086",
+		"title":"Iron Man",
+		"director":"Jon Favreau",
+		"released":"2008",
+		"genre":"3",
+		"tagline":"Heroes aren't born. They're built.",
+		"cast":"Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges",
+		"summary":"When wealthy industrialist Tony Stark is forced to build an armored suit after a life-threatening incident, he ultimately decides to use its technology to fight against evil.",
+		"dvd":"050"
+	},{
+		"id":"087",
+		"title":"Lars and the Real Girl",
+		"director":"Craig Gillespie",
+		"released":"2007",
+		"genre":"1",
+		"tagline":"To find true love, sometimes you have to think inside the box.",
+		"cast":"Ryan Gosling, Emily Mortimer, Paul Schneider",
+		"summary":"A delusional young man strikes up an unconventional relationship with a doll he finds on the Internet.",
+		"dvd":"050"
+	},{
+		"id":"088",
+		"title":"The Pursuit of Happyness",
+		"director":"Gabriele Muccino",
+		"released":"2006",
+		"genre":"2",
+		"tagline":"Based on a true story",
+		"cast":"Will Smith",
+		"summary":"A struggling salesman takes custody of his son as he's poised to begin a life-changing professional endeavor.",
+		"dvd":"050"
+	},{
+		"id":"089",
+		"title":"The Illusionist",
+		"director":"Neil Burger",
+		"released":"2006",
+		"genre":"4",
+		"tagline":"Nothing is what it seems.",
+		"cast":"Edward Norton, Paul Giamatti, Rufus Sewell",
+		"summary":"In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.",
+		"dvd":"050"
+	},{
+		"id":"090",
+		"title":"Eagle Eye",
+		"director":"D.J. Caruso",
+		"released":"2008",
+		"genre":"3",
+		"tagline":"Don't walk. Run.",
+		"cast":"Shia LaBeouf",
+		"summary":"Two strangers are thrown together by mysterious phone calls. The voice on the phone pushes them into increasingly dangerous situations, using technology to track and control their every move.",
+		"dvd":""
+	},{
+		"id":"091",
+		"title":"The Andromeda Strain",
+		"director":"Mikael Salomon",
+		"released":"2008",
+		"genre":"4",
+		"tagline":"It's a bad day to be human.",
+		"cast":"Eric McCormack",
+		"summary":"A crack team of top scientists work feverishly in a secret laboratory to discover what has killed the citizens of a small town.",
+		"dvd":""
+	},{
+		"id":"092",
+		"title":"Tropic Thunder",
+		"director":"Ben Stiller",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"They think they're just making a movie. They're wrong.",
+		"cast":"Ben Stiller, Jack Black, Robert Downey Jr.",
+		"summary":"Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying.",
+		"dvd":""
+	},{
+		"id":"093",
+		"title":"The Accidental Tourist",
+		"director":"Lawrence Kasdan",
+		"released":"1989",
+		"genre":"2",
+		"tagline":"It's not just how much you love someone. It's who you are when you're with them.",
+		"cast":"William Hurt, Kathleen Turner, Geena Davis",
+		"summary":"An emotionally distant writer of travel guides must carry on with his life after his son is killed and his marriage crumbles.",
+		"dvd":""
+	},{
+		"id":"094",
+		"title":"Ghost",
+		"director":"Jerry Zucker",
+		"released":"1990",
+		"genre":"1",
+		"tagline":"Don't let death get in your way.",
+		"cast":"Patrick Swayze, Demi Moore, Whoopi Goldberg",
+		"summary":"After being killed during a botched mugging, a man's love for his girlfriend enables him to remain on earth as a ghost.",
+		"dvd":""
+	},{
+		"id":"095",
+		"title":"Adaptation",
+		"director":"Spike Jonze",
+		"released":"2003",
+		"genre":"1",
+		"tagline":"Charlie Kaufman writes the way he lives: with great difficulty.",
+		"cast":"Nicolas Cage, Meryl Streep, Chris Cooper",
+		"summary":"A lovelorn screenwriter turns to his less talented twin brother for help when his efforts to adapt a non-fiction book go nowhere.",
+		"dvd":"032"
+	},{
+		"id":"096",
+		"title":"3:10 to Yuma",
+		"director":"James Mangold",
+		"released":"2007",
+		"genre":"3",
+		"tagline":"Time waits for one man.",
+		"cast":"Russell Crowe, Christian Bale",
+		"summary":"A battle of wills ensues when a small-time rancher agrees to escort a captured outlaw to a train that will take him to stand trial for murder.",
+		"dvd":"032"
+	},{
+		"id":"097",
+		"title":"Poltergeist",
+		"director":"Tobe Hooper",
+		"released":"1982",
+		"genre":"5",
+		"tagline":"It knows what scares you.",
+		"cast":"JoBeth Williams, Craig T. Nelson",
+		"summary":"A family's home is haunted by a host of ghosts, one of whom abducts their young daughter.",
+		"dvd":"032"
+	},{
+		"id":"098",
+		"title":"Sliding Doors",
+		"director":"Peter Howitt",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"There are two sides to every story. Helen is about to live both of them.",
+		"cast":"Gwyneth Paltrow, John Hannah",
+		"summary":"A London woman's love life and career split into two parallel realities when she does/doesn't catch a train.",
+		"dvd":"032"
+	},{
+		"id":"099",
+		"title":"Species",
+		"director":"Roger Donaldson",
+		"released":"1995",
+		"genre":"5",
+		"tagline":"Be intrigued. Be seduced. Be warned.",
+		"cast":"Ben Kingsley, Alfred Molina, Forest Whitaker",
+		"summary":"A team of scientists race to find and destroy a human-alien hybrid before she can find a mate and breed.",
+		"dvd":"032"
+	},{
+		"id":"100",
+		"title":"Best in Show",
+		"director":"Christopher Guest",
+		"released":"2001",
+		"genre":"1",
+		"tagline":"",
+		"cast":"Fred Willard, Eugene Levy, Catherine O'Hara, Bob Balaban",
+		"summary":"Pseudo-documentary follows a colorful array of characters competing at a national dog show.",
+		"dvd":"052"
+	},{
+		"id":"101",
+		"title":"Charlie Wilson's War",
+		"director":"Mike Nichols",
+		"released":"2007",
+		"genre":"2",
+		"tagline":"When the world wasn't watching, they changed it forever.",
+		"cast":"Tom Hanks, Julia Roberts, Philip Seymour Hoffman",
+		"summary":"A Texas congressman's covert efforts to assist Afghan rebels in their war with the Soviets have some unforeseen consequences.",
+		"dvd":"052"
+	},{
+		"id":"102",
+		"title":"Billy Elliot",
+		"director":"Stephen Daldry",
+		"released":"2000",
+		"genre":"2",
+		"tagline":"Inside every one of us is a hidden talent. The trick is finding it.",
+		"cast":"Jamie Bell, Julie Walters",
+		"summary":"A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.",
+		"dvd":"052"
+	},{
+		"id":"103",
+		"title":"Election",
+		"director":"Alexander Payne",
+		"released":"1999",
+		"genre":"1",
+		"tagline":"Reading, Writing, Revenge.",
+		"cast":"Matthew Broderick, Reese Witherspoon",
+		"summary":"A high school teacher's personal life unravels as he opposes an insanely ambitious student during school elections.",
+		"dvd":"052"
+	},{
+		"id":"104",
+		"title":"Hollow Man",
+		"director":"Alexander Payne",
+		"released":"2000",
+		"genre":"3",
+		"tagline":"If you can't see him, if you can't find him, you can't stop him.",
+		"cast":"Kevin Bacon, Elisabeth Shue",
+		"summary":"Scientists discover how to make people invisible, but their test subject becomes an insane killer who stalks them.",
+		"dvd":"052"
+	},{
+		"id":"105",
+		"title":"Dogma",
+		"director":"Kevin Smith",
+		"released":"1999",
+		"genre":"1",
+		"tagline":"Prepare Thyself, Dude",
+		"cast":"Ben Affleck, Matt Damon, Linda Fiorentino",
+		"summary":"An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to re-enter Heaven.",
+		"dvd":"051"
+	},{
+		"id":"106",
+		"title":"Educating Rita",
+		"director":"Lewis Gilbert",
+		"released":"1983",
+		"genre":"1",
+		"tagline":"Sometimes your students are the best teachers.",
+		"cast":"Michael Caine, Julie Walters",
+		"summary":"English professor Frank Bryant's world is upturned by Rita, a hairdresser who has decided to find herself by taking an Open University course.",
+		"dvd":"051"
+	},{
+		"id":"107",
+		"title":"Kissing Jessica Stein",
+		"director":"Charles Herman-Wurmfeld",
+		"released":"2002",
+		"genre":"1",
+		"tagline":"When it comes to love, sometimes she just can't think straight.",
+		"cast":"Jennifer Westfeldt, Heather Juergensen",
+		"summary":"Jessica Stein is a single, neurotic journalist and Jewish daughter, questions her sexual identity when she falls into an  affair with another woman.",
+		"dvd":"051"
+	},{
+		"id":"108",
+		"title":"Chasing Amy",
+		"director":"Kevin Smith",
+		"released":"1997",
+		"genre":"1",
+		"tagline":"Sex is easy. Love is hard.",
+		"cast":"Ben Affleck, Joey Lauren Adams, Jason Lee, Casey Affleck",
+		"summary":"Comic book artists and best pals Holden and Banky have their views on love and friendship tested when Holden falls in love with a bisexual woman.",
+		"dvd":"051"
+	},{
+		"id":"109",
+		"title":"Deep Impact",
+		"director":"Mimi Leder",
+		"released":"1998",
+		"genre":"3",
+		"tagline":"Heaven and Earth are about to collide.",
+		"cast":"Robert Duvall, Téa Leoni, Elijah Wood, Maximillian Schell, James Cromwell",
+		"summary":"Unless a comet can be destroyed before colliding with Earth, only those allowed into shelters will survive.",
+		"dvd":"051"
+	},{
+		"id":"110",
+		"title":"Nicholas Nickleby",
+		"director":"Douglas McGrath",
+		"released":"2003",
+		"genre":"1",
+		"tagline":"Every family needs a hero. ",
+		"cast":"Charlie Hunnam, Jamie Bell, Christopher Plummer",
+		"summary":"A young compassionate man struggles to save his family and friends from the abusive exploitation of his coldheartedly grasping uncle.",
+		"dvd":"041"
+	},{
+		"id":"111",
+		"title":"The Milagro Beanfield War",
+		"director":"Robert Redford",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"Nothing has changed in Milagro for 300 years. But there's something about this day...",
+		"cast":"Rubén Blades, Richard Bradford, Sonia Braga",
+		"summary":"When a farmer in Milagro  illegally diverts water to irrigate his bean field, the local people support him, leading to class warfare and a clash with the law.",
+		"dvd":"041"
+	},{
+		"id":"112",
+		"title":"28 Days Later",
+		"director":"Danny Boyle",
+		"released":"2003",
+		"genre":"5",
+		"tagline":"Be thankful for everything, because soon there will be nothing.",
+		"cast":"Cillian Murphy, Naomie Harris",
+		"summary":"Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.",
+		"dvd":"041"
+	},{
+		"id":"113",
+		"title":"The Ninth Gate",
+		"director":"Roman Polanski",
+		"released":"2000",
+		"genre":"5",
+		"tagline":"Leave the unknown alone.",
+		"cast":"Johnny Depp, Frank Langella, Lena Olin",
+		"summary":"A rare book dealer, while seeking out the last two existing copies of a demonic text, gets drawn into an evil conspiracy.",
+		"dvd":"041"
+	},{
+		"id":"114",
+		"title":"Airplane!",
+		"director":"Jim Abrahams, David Zucker",
+		"released":"1980",
+		"genre":"1",
+		"tagline":"Thank God it's only a movie.",
+		"cast":"Robert Hays, Julie Hagerty, Leslie Nielsen",
+		"summary":"An airplane crew takes ill. Surely the only person capable of landing the plane is an ex-pilot afraid to fly. But don't call him Shirley.",
+		"dvd":"053"		
+	},{
+		"id":"115",
+		"title":"Changing Lanes",
+		"director":"Roger Michell",
+		"released":"2002",
+		"genre":"4",
+		"tagline":"One wrong turn deserves another",
+		"cast":"Ben Affleck, Samuel L. Jackson",
+		"summary":"When a young lawyer and a businessman share a small automobile accident, their mutual road rage escalates into a feud.",
+		"dvd":"053"
+	},{
+		"id":"116",
+		"title":"Galaxy Quest",
+		"director":"Dean Parisot",
+		"released":"1999",
+		"genre":"1",
+		"tagline":"The show's been cancelled, but the adventure is just beginning.",
+		"cast":"Tim Allen, Sigourney Weaver, Alan Rickman",
+		"summary":"The alumni cast of a cult space TV show have to play their roles for real when an alien race needs their help.",
+		"dvd":"053"
+	},{
+		"id":"117",
+		"title":"Matchstick Men",
+		"director":"Ridley Scott",
+		"released":"2003",
+		"genre":"2",
+		"tagline":"Lie, cheat, steal, rinse, repeat.",
+		"cast":"Nicolas Cage, Alison Lohman, Sam Rockwell",
+		"summary":"A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly.",
+		"dvd":"053"
+	},{
+		"id":"118",
+		"title":"The Promotion",
+		"director":"Steve Conrad",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"Two guys. One job. No rules.",
+		"cast":"Seann William Scott, John C. Reilly",
+		"summary":"Two assistant managers of a corporate grocery store vie for a coveted promotion.",
+		"dvd":"053"
+	},{
+		"id":"119",
+		"title":"A Mighty Wind",
+		"director":"Christopher Guest",
+		"released":"2003",
+		"genre":"1",
+		"tagline":"Reunited, for better or worse.",
+		"cast":"Christopher Guest, Eugene Levy, Michael McKean",
+		"summary":"Mockumentary captures the reunion of 1960s folk trio the Folksmen as they prepare for a show at The Town Hall to memorialize a recently deceased concert promoter.",
+		"dvd":"015"
+	},{
+		"id":"120",
+		"title":"A View From the Top",
+		"director":"Bruno Barreto",
+		"released":"2003",
+		"genre":"1",
+		"tagline":"Don't stop till you reach the top.",
+		"cast":"Gwyneth Paltrow, Christina Applegate, Mark Ruffalo, Mike Myers",
+		"summary":"A trailor-bred woman pursues her goal of becoming an international, first-class flight attendant.",
+		"dvd":"015"
+	},{
+		"id":"121",
+		"title":"The Truman Show",
+		"director":"Peter Weir",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"The world is watching.",
+		"cast":"Jim Carrey, Ed Harris, Laura Linney",
+		"summary":"An insurance claims adjuster discovers his entire life is actually a TV show.",
+		"dvd":"015"
+	},{
+		"id":"122",
+		"title":"Zoolander",
+		"director":"Ben Stiller",
+		"released":"2001",
+		"genre":"1",
+		"tagline":"3% body fat. 1% brain activity.",
+		"cast":"Ben Stiller, Owen Wilson",
+		"summary":"At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.",
+		"dvd":"015"
+	},{
+		"id":"123",
+		"title":"Cannery Row",
+		"director":"David S. Ward",
+		"released":"1982",
+		"genre":"1",
+		"tagline":"You don't have to be crazy to live here, but it helps.",
+		"cast":"Nick Nolte, Debra Winger",
+		"summary":"Doc is a lonely marine biologist and ex-baseball star. Suzy is a scrappy drifter too abrasive to succeed as a prostitute. It's a match made on Cannery Row.",
+		"dvd":"025"
+	},{
+		"id":"124",
+		"title":"Midnight in the Garden of Good and Evil",
+		"director":"Clint Eastwood",
+		"released":"1997",
+		"genre":"2",
+		"tagline":"Welcome to Savannah, Georgia. A city Of hot nights and cold blooded murder.",
+		"cast":"John Cusack, Kevin Spacey",
+		"summary":"A visiting city reporter's assignment suddenly revolves around the murder trial of a local millionaire, whom he befriends.",
+		"dvd":"025"
+	},{
+		"id":"125",
+		"title":"Slumdog Millionaire",
+		"director":"Danny Boyle, Loveleen Tandan",
+		"released":"2009",
+		"genre":"2",
+		"tagline":"What does it take to find a lost love? A) Money B) Luck C) Smarts D) Destiny",
+		"cast":"Dev Patel, Freida Pinto",
+		"summary":"Suspected of cheating on the Indian version of 'Who Wants To Be A Millionaire?', a Mumbai slum dweller must explain his unlikely knowledge.",
+		"dvd":"025" 
+	},{
+		"id":"126",
+		"title":"The Negotiator",
+		"director":"F. Gary Gray",
+		"released":"1998",
+		"genre":"3",
+		"tagline":"One of them is holding hostages. The other is demanding surrender. And everyone's holding their breath.",
+		"cast":"Samuel L. Jackson, Kevin Spacey, David Morse",
+		"summary":"A police negotiator accused of corruption and murder takes hostages in a govt building to gain the time he needs to find the truth.",
+		"dvd":"025"
+	},{
+		"id":"127",
+		"title":"The Grifters",
+		"director":"Stephen Frears",
+		"released":"1991",
+		"genre":"2",
+		"tagline":"Seduction. Betrayal. Murder. Who's conning whom?",
+		"cast":"Anjelica Huston, John Cusack, Annette Bening",
+		"summary":"A small-time conman has torn loyalties between his estranged mother and new girlfriend--both of whom are high-stakes grifters with their own angles to play.",
+		"dvd":"025"
+	},{
+		"id":"128",
+		"title":"Fargo",
+		"director":"Joel Coen",
+		"released":"1996",
+		"genre":"4",
+		"tagline":"Small town. Big crime. Dead cold.",
+		"cast":"William H. Macy, Frances McDormand, Steve Buscemi",
+		"summary":"Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of pregnant Marge Gunderson.",
+		"dvd":"024"
+	},{
+		"id":"129",
+		"title":"Bicentennial Man",
+		"director":"Chris Columbus",
+		"released":"1999",
+		"genre":"2",
+		"tagline":"One robot's 200-year journey to become an ordinary man.",
+		"cast":"Robin Williams, Embeth Davidtz, Sam Neill",
+		"summary":"An android endeavors to become human as he gradually acquires emotions.",
+		"dvd":"024"
+	},{
+		"id":"130",
+		"title":"Night at the Museum",
+		"director":"Shawn Levy",
+		"released":"2006",
+		"genre":"3",
+		"tagline":"At the Museum of Natural History, something unnatural is occurring.",
+		"cast":"Ben Stiller, Ricky Gervais, Robin Williams",
+		"summary":"A newly recruited night security guard at the Museum of Natural History discovers that an ancient curse causes the animals and exhibits on display to come to life and wreak havoc.",
+		"dvd":"024"
+	},{
+		"id":"131",
+		"title":"State and Main",
+		"director":"David Mamet",
+		"released":"2001",
+		"genre":"1",
+		"tagline":"Big movie. Small town. Huge trouble.",
+		"cast":"Philip Seymour Hoffman, William H. Macy, Alec Baldwin",
+		"summary":"A movie crew invades a small town whose residents are all too ready to give up their values for showbiz glitz.",
+		"dvd":"024"
+	},{
+		"id":"132",
+		"title":"Burn After Reading",
+		"director":"Ethan Coen, Joel Coen",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"Intelligence is only their job.",
+		"cast":"Brad Pitt, Frances McDormand, George Clooney",
+		"summary":"A disk containing the memoirs of a CIA agent ends up in the hands of two unscrupulous and dim-witted gym employees who try to sell it.",
+		"dvd":"026"
+	},{
+		"id":"133",
+		"title":"Cider House Rules",
+		"director":"Lasse Hallström",
+		"released":"1999",
+		"genre":"2",
+		"tagline":"A story about how far we must travel to find the place where we belong.",
+		"cast":"Tobey Maguire, Charlize Theron, Michael Caine",
+		"summary":"A compassionate young man, raised in an orphanage and trained to be a doctor there, decides to leave to see the world.",
+		"dvd":"026"
+	},{
+		"id":"134",
+		"title":"The Bounty",
+		"director":"Roger Donaldson",
+		"released":"1984",
+		"genre":"7",
+		"tagline":"They were friends through hell. They became enemies in Paradise.",
+		"cast":"Mel Gibson, Anthony Hopkins, Laurence Olivier",
+		"summary":"After Lt. Bligh's cruelty leads to a mutiny on his ship, Fletcher Christian tries to flee beyond the reach of the British, while Bligh and his loyalists aim for East Timor in a tiny lifeboat.",
+		"dvd":"026"
+	},{
+		"id":"135",
+		"title":"The Opposite of Sex",
+		"director":"Don Roos",
+		"released":"1998",
+		"genre":"2",
+		"tagline":"You'll laugh, you'll cry, you'll be offended.",
+		"cast":"Christina Ricci, Martin Donovan and Lisa Kudrow",
+		"summary":"A 16-year-old girl visits her gay half-brother and ends up seducing his boyfriend, thus wreaking havoc on all of their lives.",
+		"dvd":"026"
+	},{
+		"id":"136",
+		"title":"Waiting for Guffman",
+		"director":"Christopher Guest",
+		"released":"1996",
+		"genre":"1",
+		"tagline":"There's a good reason some talent remains undiscovered",
+		"cast":"Christopher Guest, Fred Willard, Catherine O'Hara",
+		"summary":"An aspiring director and the amateur cast of a hokey small-town Missouri musical production go overboard when they learn that someone from Broadway will be in attendance.",
+		"dvd":"026"
+	},{
+		"id":"137",
+		"title":"The Imposters",
+		"director":"Stanley Tucci",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"Now the time has come...to act.",
+		"cast":"Oliver Platt, Stanley Tucci, Alfred Molina",
+		"summary":"Two out-of-work actors accidentally stow away on a ship to hide from a drunken, belligerent lead actor who has sworn to kill them for belittling his talents.",
+		"dvd":"021"
+	},{
+		"id":"138",
+		"title":"Schindler's List",
+		"director":"Steven Spielberg",
+		"released":"1993",
+		"genre":"2",
+		"tagline":"The List is life.",
+		"cast":"Liam Neeson, Ralph Fiennes, Ben Kingsley",
+		"summary":"Oskar Schindler uses Jews to start a factory in Poland during WWII, but after he witnesses the horrors endured by the Jews, he starts to save them.",
+		"dvd":"021"
+	},{
+		"id":"139",
+		"title":"Mississippi Burning",
+		"director":"Alan Parker",
+		"released":"1988",
+		"genre":"2",
+		"tagline":"1964. When America was at war with itself.",
+		"cast":"Gene Hackman, Willem Dafoe, Frances McDormand",
+		"summary":"Two FBI agents with wildly different styles arrive in Mississippi to investigate the disappearance of some civil rights activists.",
+		"dvd":"021"
+	},{
+		"id":"140",
+		"title":"City Hall",
+		"director":"Harold Becker",
+		"released":"1996",
+		"genre":"2",
+		"tagline":"Power corrupts.",
+		"cast":"Al Pacino, John Cusack, Bridget Fonda",
+		"summary":"The accidental shooting of a boy in New York leads to an investigation by the deputy mayor, and unexpectedly far-reaching consequences.",
+		"dvd":"034"
+	},{
+		"id":"141",
+		"title":"A Beautiful Mind",
+		"director":"Ron Howard",
+		"released":"2001",
+		"genre":"2",
+		"tagline":"Paranoia. Schizophrenia. Trigonometry.",
+		"cast":"Russell Crowe, Ed Harris, Jennifer Connelly",
+		"summary":"After a brilliant but asocial mathematician accepts secret work in cryptography, his life takes a turn to the nightmarish.",
+		"dvd":"034"
+	},{
+		"id":"142",
+		"title":"Boiler Room",
+		"director":"Ben Younger",
+		"released":"2000",
+		"genre":"2",
+		"tagline":"How far would you go? How hard would you fall?",
+		"cast":"Giovanni Ribisi, Ben Affleck, Tom Everett Scott",
+		"summary":"A college dropout gets a job as a broker for a suburban investment firm, which puts him on the fast track to success, but the job might not be as legitimate as it sounds.",
+		"dvd":"034"
+	},{
+		"id":"143",
+		"title":"Fallen",
+		"director":"Gregory Hoblit",
+		"released":"1998",
+		"genre":"4",
+		"tagline":"Don't trust a soul.",
+		"cast":"Denzel Washington, John Goodman, Donald Sutherland",
+		"summary":"Detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they resemble Reese's style.",
+		"dvd":"034"
+	},{
+		"id":"144",
+		"title":"The Score",
+		"director":"Frank Oz",
+		"released":"2001",
+		"genre":"4",
+		"tagline":"There are no partners in crime.",
+		"cast":"Robert De Niro, Edward Norton, Marlon Brando",
+		"summary":"An aging thief hopes to retire and live off his ill-gotten wealth when a brash young kid talks him into doing one last heist.",
+		"dvd":"037"
+	},{
+		"id":"145",
+		"title":"The Italian Job",
+		"director":"F. Gary Gray",
+		"released":"2003",
+		"genre":"4",
+		"tagline":"Get in. Get out. Get even.",
+		"cast":"Donald Sutherland, Mark Wahlberg, Edward Norton",
+		"summary":"Thieves plan to steal millions in gold from a crooked colleague by  creating Los Angeles' largest traffic jam ever.",
+		"dvd":"037"
+	},{
+		"id":"146",
+		"title":"Ocean's Eleven",
+		"director":"Steven Soderbergh",
+		"released":"2001",
+		"genre":"4",
+		"tagline":"Are you in or out?",
+		"cast":"George Clooney, Brad Pitt, Matt Damon, Andy Garcia, Julia Roberts",
+		"summary":"Danny Ocean rounds up a gang of associates to stage heists of three major Las Vegas casinos simultaneously during a major boxing event.",
+		"dvd":"037"
+	},{
+		"id":"147",
+		"title":"The Sting",
+		"director":"George Roy Hill",
+		"released":"1973",
+		"genre":"4",
+		"tagline":"...all it takes is a little Confidence.",
+		"cast":"Paul Newman, Robert Redford, Robert Shaw",
+		"summary":"In 1930s Chicago, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.",
+		"dvd":"037"
+	},{
+		"id":"148",
+		"title":"Waking Ned Devine",
+		"director":"Kirk Jones",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"It takes a village to raise the dead.",
+		"cast":"Ian Bannen, David Kelly, Fionnula Flanagan",
+		"summary":"When a lottery winner in a small Irish village dies of shock, his fellow townsfolk attempt to claim his identity and the money.",
+		"dvd":"027"
+	},{
+		"id":"149",
+		"title":"Mimic",
+		"director":"Guillermo del Toro",
+		"released":"1997",
+		"genre":"5",
+		"tagline":"Evolution doesn't care who wins.",
+		"cast":"Mira Sorvino, Jeremy Northam, Alexander Goodwin",
+		"summary":"Three years ago, entomologist Dr. Susan Tyler designed an insect to kill cockroaches carrying a virulent disease. Now the insects are trying to destroy their only predator: man.",
+		"dvd":"027"
+	},{
+		"id":"150",
+		"title":"The Haunting in Connecticut",
+		"director":"Peter Cornwell",
+		"released":"2009",
+		"genre":"5",
+		"tagline":"Some things can't be explained.",
+		"cast":"Virginia Madsen, Martin Donovan, Elias Koteas",
+		"summary":"After a family is forced to relocate for their son's health, they begin experiencing supernatural events in their new home, which turns out to be a former mortuary.",
+		"dvd":"027"
+	},{
+		"id":"151",
+		"title":"Hitch",
+		"director":"Andy Tennant",
+		"released":"2005",
+		"genre":"1",
+		"tagline":"The cure for the common man.",
+		"cast":"Will Smith, Eva Mendes, Kevin James",
+		"summary":"While helping his latest client woo the lady of his dreams, a professional 'date doctor' finds his own game doesn't quite work on the columnist with whom he's smitten.",
+		"dvd":"027"
+	},{
+		"id":"152",
+		"title":"Duets",
+		"director":"Bruce Paltrow",
+		"released":"2000",
+		"genre":"2",
+		"tagline":"Six lost souls in search of a little harmony.",
+		"cast":"Huey Lewis, Gwyneth Paltrow, Paul Giamatti",
+		"summary":"A professional karaoke hustler reconnects with his daughter and a bored suburban businessman turns outlaw karaoke singer.",
+		"dvd":"027"
+	},{
+		"id":"153",
+		"title":"AI: Artificial Intelligence",
+		"director":"Steven Spielberg",
+		"released":"2001",
+		"genre":"2",
+		"tagline":"David is 11 years old. His love is real. But he is not.",
+		"cast":"Haley Joel Osment, Jude Law, Frances O'Connor",
+		"summary":"A highly advanced robotic boy longs to become 'real' so that he can regain the love of his human mother.",
+		"dvd":"035"
+	},{
+		"id":"154",
+		"title":"An American Werewolf in London",
+		"director":"John Landis",
+		"released":"1981",
+		"genre":"4",
+		"tagline":"Beware the moon",
+		"cast":"David Naughton, Jenny Agutter, Griffin Dunne",
+		"summary":"Two American tourists in England are attacked by a werewolf that none of the locals will admit exists.",
+		"dvd":"035"
+	},{
+		"id":"155",
+		"title":"Dog Day Afternoon",
+		"director":"Sidney Lumet",
+		"released":"1975",
+		"genre":"2",
+		"tagline":"In August 1972, Sonny Wortzik robbed a bank.",
+		"cast":"Al Pacino, John Cazale, Charles Durning",
+		"summary":"A man robs a bank to pay for his lover's operation, but it turns into a hostage situation and a media circus.",
+		"dvd":"035"
+	},{
+		"id":"156",
+		"title":"Dark Matter",
+		"director":"Shi-Zheng Chen",
+		"released":"2007",
+		"genre":"2",
+		"tagline":"The dark side of the ivory tower.",
+		"cast":"Meryl Streep, Ye Liu, Peng Chi",
+		"summary":"A Chinese university student in the United States makes a breakthrough in astrophysics, but his hopes for a Nobel Prize are dashed by academic politics.",
+		"dvd":"035"
+	},{
+		"id":"157",
+		"title":"Shallow Hal",
+		"director":"Bobby Farrelly, Peter Farrelly",
+		"released":"2001",
+		"genre":"1",
+		"tagline":"True love is worth the weight.",
+		"cast":"Jack Black, Gwyneth Paltrow, Jason Alexander",
+		"summary":"A superficial man is hypnotized into seeing only women's inner beauty, not their external selves.",
+		"dvd":"006"
+	},{
+		"id":"158",
+		"title":"Punch-Drunk Love",
+		"director":"Paul Thomas Anderson",
+		"released":"2002",
+		"genre":"1",
+		"tagline":"The course of true love ne'er did run smooth.",
+		"cast":"Adam Sandler, Emily Watson, Philip Seymour Hoffman",
+		"summary":"A beleaguered small-business owner finds a harmonium and embarks on a romantic journey with a mysterious woman.",
+		"dvd":"006"
+	},{
+		"id":"159",
+		"title":"The Long Kiss Goodnight",
+		"director":"Renny Harlin",
+		"released":"1996",
+		"genre":"3",
+		"tagline":"What's forgotten is not always gone. ",
+		"cast":"Geena Davis, Samuel L. Jackson",
+		"summary":"A women suffering from amnesia begins to recover her memories after trouble from her past finds her again.",
+		"dvd":"006"
+	},{
+		"id":"160",
+		"title":"Revolutionary Road",
+		"director":"Sam Mendes",
+		"released":"2008",
+		"genre":"2",
+		"tagline":"How do you break free without breaking apart?",
+		"cast":"Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald",
+		"summary":"A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
+		"dvd":"006"
+	},{
+		"id":"161",
+		"title":"Duplicity",
+		"director":"Tony Gilroy",
+		"released":"2009",
+		"genre":"4",
+		"tagline":"Stealing $40 million is easy. Trusting each other is hard.",
+		"cast":"Julia Roberts, Clive Owen, Paul Giamatti, Tom Wilkinson",
+		"summary":"A pair of corporate spies who share a steamy past hook up to pull off a con job on their respective bosses.",
+		"dvd":"036"
+	},{
+		"id":"162",
+		"title":"In the Loop",
+		"director":"Armando Iannucci",
+		"released":"2009",
+		"genre":"4",
+		"tagline":"Bloodshed, destruction...what's not to like?",
+		"cast":"Tom Hollander, Peter Capaldi, James Gandolfini",
+		"summary":"The U.S. president and U.K. prime minister fancy a war. But not everyone agrees that war is a good thing...",
+		"dvd":"036"
+	},{
+		"id":"163",
+		"title":"Joe vs. the Volcano",
+		"director":"John Patrick Shanley",
+		"released":"1990",
+		"genre":"1",
+		"tagline":"A story of love and lava.",
+		"cast":"Tom Hanks, Meg Ryan, Lloyd Bridges",
+		"summary":"When a hypochondriac learns that he is dying, he accepts an offer to throw himself in a volcano at a tropical island, and along the way there, learns to truly live.",
+		"dvd":"008"
+	},{
+		"id":"164",
+		"title":"National Treasure",
+		"director":"Jon Turteltaub",
+		"released":"2004",
+		"genre":"4",
+		"tagline":"To break the code, he must break the rules.",
+		"cast":"Nicolas Cage, Harvey Keitel",
+		"summary":"A treasure hunter is in hot pursuit of a mythical treasure that has been passed down for centuries, while his enemy races him to the goal.",
+		"dvd":"036"
+	},{
+		"id":"165",
+		"title":"The Game",
+		"director":"David Fincher",
+		"released":"1997",
+		"genre":"4",
+		"tagline":"You don't play it, it plays you.",
+		"cast":"Michael Douglas, Deborah Kara Unger, Sean Penn",
+		"summary":"Wealthy financier Nicholas Van Orton gets a strange birthday present from wayward brother Conrad: a live-action game that consumes his life.",
+		"dvd":"036"
+	},{
+		"id":"166",
+		"title":"Once",
+		"director":"John Carney",
+		"released":"2006",
+		"genre":"2",
+		"tagline":"How often do you find the right person?",
+		"cast":"Glen Hansard, Markéta Irglová",
+		"summary":"A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse, and record songs that tell their love story.",
+		"dvd":"038"
+	},{
+		"id":"167",
+		"title":"Gigantic",
+		"director":"Matt Aselton",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"When it comes to relationships, there are no small surprises.",
+		"cast":"Paul Dano, Zooey Deschanel, John Goodman",
+		"summary":"A mattress salesman finds his plan to adopt a Chinese baby augmented by the arrival of a young woman who walks into his workplace and falls asleep on one of the beds.",
+		"dvd":"038"
+	},{
+		"id":"168",
+		"title":"King of California",
+		"director":"Mike Cahill",
+		"released":"2007",
+		"genre":"1",
+		"tagline":"You've got to believe in treasure to find it.",
+		"cast":"Michael Douglas, Evan Rachel Wood",
+		"summary":"After getting out of a mental institution, a dad tries to convince his daughter that there's Spanish gold buried somewhere under suburbia.",
+		"dvd":"038"
+	},{
+		"id":"169",
+		"title":"Mr. Holland's Opus",
+		"director":"Stephen Herek",
+		"released":"1995",
+		"genre":"1",
+		"tagline":"It's not about the direction you take. It's about the direction you give.",
+		"cast":"Richard Dreyfuss, Glenne Headly",
+		"summary":"A musician and composer takes a teaching job to pay the rent but life has other plans for him.",
+		"dvd":"038"
+	},{
+		"id":"170",
+		"title":"The Devil's Advocate",
+		"director":"Taylor Hackford",
+		"released":"1997",
+		"genre":"4",
+		"tagline":"The devil has winning ways.",
+		"cast":"Keanu Reeves, Al Pacino, Charlize Theron",
+		"summary":"A hotshot lawyer gets more than he bargained for when he learns his new boss is Lucifer himself.",
+		"dvd":"038"
+	},{
+		"id":"171",
+		"title":"Jerry Maguire",
+		"director":"Cameron Crowe",
+		"released":"1996",
+		"genre":"1",
+		"tagline":"The rest of his life begins now.",
+		"cast":"Tom Cruise, Cuba Gooding Jr., Renée Zellweger",
+		"summary":"When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test with the only athlete who stays with him.",
+		"dvd":"012"
+	},{
+		"id":"172",
+		"title":"I Love You, Man",
+		"director":"John Hamburg",
+		"released":"2009",
+		"genre":"1",
+		"tagline":"Are You Man Enough To Say It? ",
+		"cast":"Paul Rudd, Jason Segel, Rashida Jones",
+		"summary":"Friendless Peter goes on a series of man-dates to find a Best Man for his wedding. But his bond with his new BFF puts a strain on his relationship with his fiancée.",
+		"dvd":"012"
+	},{
+		"id":"173",
+		"title":"District 9",
+		"director":"Neill Blomkamp",
+		"released":"2009",
+		"genre":"4",
+		"tagline":"No humans allowed.",
+		"cast":"Sharlto Copley, David James",
+		"summary":"An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.",
+		"dvd":"012"
+	},{
+		"id":"175",
+		"title":"The Green Mile",
+		"director":"Frank Darabont",
+		"released":"1999",
+		"genre":"2",
+		"tagline":"Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+		"cast":"Tom Hanks, Michael Clarke Duncan, David Morse",
+		"summary":"A handful of guards on Death Row must deal with the scheduled execution of a childlike man, convicted of murder & rape, who has the power of miraculous healing.",
+		"dvd":"012"
+	},{
+		"id":"176",
+		"title":"Fracture",
+		"director":"Gregory Hoblit",
+		"released":"2007",
+		"genre":"4",
+		"tagline":"If you look closely enough, everyone has a weak spot.",
+		"cast":"Anthony Hopkins, Ryan Gosling, David Strathairn",
+		"summary":"An attorney intent on climbing the career ladder toward success, finds an unlikely opponent in a manipulative criminal he's trying to prosecute.",
+		"dvd":"040"
+	},{
+		"id":"177",
+		"title":"Family Business",
+		"director":"Sidney Lumet",
+		"released":"1989",
+		"genre":"2",
+		"tagline":"There's nothing like a good robbery to bring a family together.",
+		"cast":"Sean Connery, Dustin Hoffman, Matthew Broderick",
+		"summary":"Jessie is an aging career criminal. His once delinquent son Vito has turned over a new leaf.  When Vito's son Adam approaches them with a plan for a heist, trouble erupts.",
+		"dvd":"040"
+	},{
+		"id":"178",
+		"title":"Fight Club",
+		"director":"David Fincher",
+		"released":"1999",
+		"genre":"2",
+		"tagline":"Works great even on tough blood stains.",
+		"cast":"Brad Pitt, Edward Norton, Helena Bonham Carter",
+		"summary":"An office employee and a soap salesman build a global organization to help vent male aggression.",
+		"dvd":"040"
+	},{
+		"id":"179",
+		"title":"Jane Eyre",
+		"director":"Susanna White",
+		"released":"2006",
+		"genre":"2",
+		"tagline":"Character counts.",
+		"cast":"Ruth Wilson, Toby Stephens",
+		"summary":"A young woman becomes governess to the ward of a brooding and enigmatic man. They fall in love, but a secret from his past threatens to destroy their happiness.",
+		"dvd":"070"
+	},{
+		"id":"180",
+		"title":"Knowing",
+		"director":"Alex Proyas",
+		"released":"2009",
+		"genre":"4",
+		"tagline":"What happens when the numbers run out?",
+		"cast":"Nicolas Cage, Chandler Canterbury, Rose Byrne",
+		"summary":"A time capsule dug up at an elementary school contains some chilling predictions, some of which have already come to pass. A single father comes to believe that his family plays a role in a coming catastrophe.",
+		"dvd":"017"
+	},{
+		"id":"181",
+		"title":"The Commitments",
+		"director":"Alan Parker",
+		"released":"1991",
+		"genre":"5",
+		"tagline":"They had nothing to lose, and they risked it all.",
+		"cast":"Robert Arkins, Michael Aherne, Angeline Ball",
+		"summary":"The travails of Jimmy Rabbitte to form the 'World's Hardest Working Band,' The Commitments, and bring soul music to the people of Dublin, Ireland.",
+		"dvd":"017"
+	},{
+		"id":"182",
+		"title":"The Big Lebowski",
+		"director":"Joel Coen",
+		"released":"1998",
+		"genre":"1",
+		"tagline":"Times like these call for a Big Lebowski.",
+		"cast":"Jeff Bridges, John Goodman, Steve Buscemi, Julianne Moore",
+		"summary":"'Dude' Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+		"dvd":"017"
+	},{
+		"id":"183",
+		"title":"The Arrival",
+		"director":"David Twohy",
+		"released":"1996",
+		"genre":"4",
+		"tagline":"For centuries we've been watching the skies, when we should have been watching our backs.",
+		"cast":"Charlie Sheen, Lindsay Crouse, Richard Schiff",
+		"summary":"Zane, an astronomer, discovers alien life on earth. But the aliens are keeping a deadly secret, and will kill to stop Zane from learning it.",
+		"dvd":"017"
+	},{
+		"id":"184",
+		"title":"Sabrina",
+		"director":"Sydney Pollack",
+		"released":"1995",
+		"genre":"2",
+		"tagline":"It's a merger no one saw coming.",
+		"cast":"Harrison Ford, Julia Ormond, Greg Kinnear",
+		"summary":"An ugly duckling, having undergone a remarkable change, still harbors feelings for her crush--a carefree playboy--but not before his business-focused brother has something to say about it.",
+		"dvd":"039"
+	},{
+		"id":"185",
+		"title":"State of Play",
+		"director":"Kevin Macdonald",
+		"released":"2009",
+		"genre":"4",
+		"tagline":"Find the truth",
+		"cast":"Russell Crowe, Rachel McAdams, Ben Affleck",
+		"summary":"A team of investigative reporters work alongside a police detective to try to solve the murder of a congressman's mistress.",
+		"dvd":"039"
+	},{
+		"id":"186",
+		"title":"Sunshine Cleaning",
+		"director":"Christine Jeffs",
+		"released":"2008",
+		"genre":"2",
+		"tagline":"Life's a messy business.",
+		"cast":"Amy Adams, Emily Blunt, Alan Arkin",
+		"summary":"In order to raise the tuition to send her young son to private school, a mom starts an unusual business -- a biohazard removal/crime scene clean-up service -- with her unreliable sister.",
+		"dvd":"039"
+	},{
+		"id":"187",
+		"title":"Seven",
+		"director":"David Fincher",
+		"released":"1995",
+		"genre":"4",
+		"tagline":"Gluttony, Greed, Sloth, Envy, Wrath, Pride, Lust",
+		"cast":"Morgan Freeman, Brad Pitt, Kevin Spacey",
+		"summary":"Police drama about two cops, one new and one about to retire, after a serial killer using the seven deadly sins as his MO.",
+		"dvd":"039"
+	},{
+		"id":"188",
+		"title":"The Abyss",
+		"director":"James Cameron",
+		"released":"1989",
+		"genre":"4",
+		"tagline":"Deep below the blue surface, there lies a place no one has ever dreamed of.",
+		"cast":"Ed Harris, Mary Elizabeth Mastrantonio",
+		"summary":"A civilian diving team is enlisted to search for a lost nuclear submarine and face danger while encountering an alien aquatic species.",
+		"dvd":"043"
+	},{
+		"id":"189",
+		"title":"Emma",
+		"director":"Douglas McGrath",
+		"released":"1996",
+		"genre":"1",
+		"tagline":"Cupid is armed and dangerous.",
+		"cast":"Gwyneth Paltrow, James Cosmo, Greta Scacchi",
+		"summary":"In rural 1800s England, things go bad for a young matchmaker after she finds a man for another woman.",
+		"dvd":"043"
+	},{
+		"id":"190",
+		"title":"Dangerous Liaisons",
+		"director":"Stephen Frears",
+		"released":"1988",
+		"genre":"2",
+		"tagline":"Lust, seduction, revenge. Just for their amusement.",
+		"cast":"Glenn Close, John Malkovich, Michelle Pfeiffer",
+		"summary":"Rich and bored aristocrats in Louis IV's France play high-stakes games of passion and betrayal.",
+		"dvd":"043"
+	},{
+		"id":"191",
+		"title":"The Astronaut's Wife",
+		"director":"Rand Ravich",
+		"released":"1999",
+		"genre":"4",
+		"tagline":"Until death do them part.",
+		"cast":"Charlize Theron, Johnny Depp",
+		"summary":"After NASA briefly loses contact with two shuttle astronauts, the pair are returned safely to Earth, but it gradually becomes evident that neither of them are quite the same.",
+		"dvd":"043"
+	},{
+		"id":"192",
+		"title":"The Gift",
+		"director":"Sam Raimi",
+		"released":"2000",
+		"genre":"2",
+		"tagline":"It was the perfect crime...except someone saw it all.",
+		"cast":"Cate Blanchett, Katie Holmes, Keanu Reeves",
+		"summary":"A woman with extrasensory perception is asked to help find a young woman who has disappeared.",
+		"dvd":"043"
+	},{
+		"id":"193",
+		"title":"Cold Mountain",
+		"director":"Anthony Minghella",
+		"released":"2003",
+		"genre":"2",
+		"tagline":"Find your way home.",
+		"cast":"Jude Law, Nicole Kidman, Renée Zellweger",
+		"summary":"In the waning days of the Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, NC to reunite with his sweetheart.",
+		"dvd":"042"
+	},{
+		"id":"194",
+		"title":"Assault on Precinct 13",
+		"director":"Jean-François Richet",
+		"released":"2005",
+		"genre":"3",
+		"tagline":"Unite and fight.",
+		"cast":"Ethan Hawke, Laurence Fishburne, Gabriel Byrne",
+		"summary":"A police sergeant must rally the cops and prisoners together on New Year's Eve to defend a remote precinct under assault by corrupt policemen.",
+		"dvd":"042"
+	},{
+		"id":"195",
+		"title":"Death and the Maiden",
+		"director":"Roman Polanski",
+		"released":"1994",
+		"genre":"4",
+		"tagline":"Tonight, mercy will be buried with the past.",
+		"cast":"Sigourney Weaver, Ben Kingsley, Stuart Wilson",
+		"summary":"A political activist is convinced that her guest is a man who once tortured her for the government.",
+		"dvd":"042"
+	},{
+		"id":"196",
+		"title":"Good Night, and Good Luck",
+		"director":"George Clooney",
+		"released":"2005",
+		"genre":"8",
+		"tagline":"We will not walk in fear of one another.",
+		"cast":"David Strathairn, George Clooney, Patricia Clarkson",
+		"summary":"Broadcast journalist Edward R. Murrow and CBS dare to take on Sen. Joseph McCarthy.",
+		"dvd":"042"
+	},{
+		"id":"197",
+		"title":"John Adams",
+		"director":"Tom Hooper",
+		"released":"2008",
+		"genre":"8",
+		"tagline":"He united the states of America.",
+		"cast":"Paul Giamatti, Laura Linney",
+		"summary":"A miniseries on the career of John Adams and the first 50 years of the United States, parts 1-7",
+		"dvd":""
+	},{
+		"id":"198",
+		"title":"Fire in the Sky",
+		"director":"Robert Lieberman",
+		"released":"1993",
+		"genre":"4",
+		"tagline":"Alien abduction. Nov. 5, 1975. White Mountains, northeastern Arizona.",
+		"cast":"D.B. Sweeney, Robert Patrick and Craig Sheffer",
+		"summary":"When a group of men clearing bush for the government arrive back in town, claiming their friend was abducted by aliens, their friend's disappearance is treated as murder.",
+		"dvd":"019"
+	},{
+		"id":"199",
+		"title":"An Ideal Husband",
+		"director":"Oliver Parker",
+		"released":"1999",
+		"genre":"1",
+		"tagline":"He just doesn't know it yet.",
+		"cast":"Rupert Everett, Cate Blanchett, Minnie Driver, Julianne Moore",
+		"summary":"A wealthy government minister with a loving wife stands to lose everything when a woman appears in London with damning evidence of a past misdeed.",
+		"dvd":"019"
+	},{
+		"id":"200",
+		"title":"The Invention of Lying",
+		"director":"Ricky Gervais, Matthew Robinson",
+		"released":"2009",
+		"genre":"1",
+		"tagline":"In a world of truth-tellers, the liar is king.",
+		"cast":"Ricky Gervais, Jennifer Garner, Jonah Hill",
+		"summary":"A comedy set in a world where no one has ever lied, until a writer seizes the opportunity for personal gain.",
+		"dvd":"019"
+	},{
+		"id":"201",
+		"title":"The Rainmaker",
+		"director":"Francis Ford Coppola",
+		"released":"1997",
+		"genre":"2",
+		"tagline":"Every underdog has his day.",
+		"cast":"Matt Damon, Danny DeVito, Claire Danes",
+		"summary":"An idealistic young lawyer and his cynical partner take on a powerful law firm representing a corrupt insurance company.",
+		"dvd":"019"
+	},{
+		"id":"202",
+		"title":"Runaway Jury",
+		"director":"Gary Fleder",
+		"released":"2003",
+		"genre":"2",
+		"tagline":"Trials are too important to be decided by juries. ",
+		"cast":"John Cusack, Rachel Weisz, Gene Hackman",
+		"summary":"A juror on the inside and a woman on the outside manipulate a court trial involving a major gun manufacturer.",
+		"dvd":"019"
+	},{
+		"id":"203",
+		"title":"Michael Clayton",
+		"director":"Tony Gilroy",
+		"released":"2007",
+		"genre":"2",
+		"tagline":"The truth is what he makes it.",
+		"cast":"George Clooney, Tilda Swinton, Tom Wilkinson",
+		"summary":"An in-house 'fixer' at a corporate law firm finds himself at the center of a conspiratorial maelstrom when one of the firm's senior partners decides to turn on their biggest client.",
+		"dvd":"018"
+	},{
+		"id":"204",
+		"title":"Inglourious Basterds",
+		"director":"Quentin Tarantino",
+		"released":"2009",
+		"genre":"3",
+		"tagline":"Once upon a time in Nazi occupied France...",
+		"cast":"Brad Pitt, Diane Kruger, Eli Roth",
+		"summary":"In Nazi-occupied France during World War II, a group of Jewish-American commandoes are chosen specifically to spread fear throughout the Third Reich by brutally killing Nazis.",
+		"dvd":"018"
+	},{
+		"id":"205",
+		"title":"Funny People",
+		"director":"Judd Apatow",
+		"released":"2009",
+		"genre":"1",
+		"tagline":"George Simmons was prepared to die, but then a funny thing happened.",
+		"cast":"Adam Sandler, Seth Rogen, Leslie Mann",
+		"summary":"When a seasoned comedian becomes terminally ill, his need for a genuine friend drives him to take a rookie comic under his wing.",
+		"dvd":"018"
+	},{
+		"id":"206",
+		"title":"Julie & Julia",
+		"director":"Nora Ephron",
+		"released":"2009",
+		"genre":"1",
+		"tagline":"Passion. Ambition. Butter. Do you have what it takes?",
+		"cast":"Amy Adams, Meryl Streep, Chris Messina",
+		"summary":"Julia Child's story of her start in the cooking profession is intertwined with blogger Julie Powell's 2002 challenge to cook all the recipes in Child's first book.",
+		"dvd":"018"
+	},{
+		"id":"207",
+		"title":"Management",
+		"director":"Stephen Belber",
+		"released":"2008",
+		"genre":"1",
+		"tagline":"Some moments just feel right.",
+		"cast":"Jennifer Aniston, Steve Zahn, Woody Harrelson",
+		"summary":"A traveling art saleswoman tries to shake off a flaky motel manager who falls for her and won't leave her alone.",
+		"dvd":"020"
+	},{
+		"id":"208",
+		"title":"The Great Buck Howard",
+		"director":"Sean McGinly",
+		"released":"2008",
+		"genre":"2",
+		"tagline":"Greatness is a state of mind.",
+		"cast":"Colin Hanks, John Malkovich, Tom Hanks",
+		"summary":"A young man, much to the chagrin of his father, becomes the new assistant to an illusionist in decline.",
+		"dvd":"020"
+	},{
+		"id":"209",
+		"title":"Quiz Show",
+		"director":"Robert Redford",
+		"released":"1994",
+		"genre":"2",
+		"tagline":"Fifty million people watched, but no one saw a thing.",
+		"cast":"Ralph Fiennes, John Turturro, Rob Morrow",
+		"summary":"Dick Goodwin discovers game shows are fixed: pretty boy WASP Charles Van Doren is fed answers so he beats geeky Jew Herbie Stempel.",
+		"dvd":"020"
+	},{
+		"id":"210",
+		"title":"Wimbledon",
+		"director":"Richard Loncraine",
+		"released":"2004",
+		"genre":"2",
+		"tagline":"She's a golden girl. He's a longshot.",
+		"cast":"Kirsten Dunst, Paul Bettany, Jon Favreau",
+		"summary":"A pro tennis player has lost his ambition and plans to quit, until he meets a young player on the women's circuit who relights his fire.",
+		"dvd":"020"
+	},{
+		"id":"211",
+		"title":"(500) Days of Summer",
+		"director":"Marc Webb",
+		"released":"2009",
+		"genre":"2",
+		"tagline":"Boy meets girl. Boy falls in love. Girl doesn't.",
+		"cast":"Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend",
+		"summary":"An offbeat romantic comedy about a woman who doesn't believe true love exists, and the unfortunate young man who falls for her.",
+		"dvd":"029"
+	},{
+		"id":"212",
+		"title":"Drag Me to Hell",
+		"director":"Sam Raimi",
+		"released":"2009",
+		"genre":"4",
+		"tagline":"Even nice people can go to hell. ",
+		"cast":"Alison Lohman, Justin Long",
+		"summary":"A loan officer who evicts an old woman from her home finds herself the recipient of a supernatural curse. Desperate, she turns to a seer to try and save her soul, while evil forces work to push her to a breaking point.",
+		"dvd":"029"
+	},{
+		"id":"213",
+		"title":"O Brother, Where Art Thou?",
+		"director":"Joel Coen",
+		"released":"2000",
+		"genre":"1",
+		"tagline":"They have a plan, but not a clue.",
+		"cast":"George Clooney, John Turturro, Tim Blake Nelson",
+		"summary":"A take on Homer's 'Odyssey,' set in the Deep South in the 1930's. Three escaped convicts search for treasure while pursued by a relentless lawman.",
+		"dvd":"029"
+	},{
+		"id":"214",
+		"title":"Planet of the Apes",
+		"director":"Franklin J. Schaffner",
+		"released":"1968",
+		"genre":"2",
+		"tagline":"What does it mean to be human?",
+		"cast":"Charlton Heston, Roddy McDowall, Kim Hunter",
+		"summary":"An astronaut crew crash lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.",
+		"dvd":"031"
+	},{
+		"id":"215",
+		"title":"Pontypool",
+		"director":"Bruce McDonald",
+		"released":"2008",
+		"genre":"5",
+		"tagline":"Words lose their meaning when you repeat them.",
+		"cast":"Stephen McHattie, Lisa Houle, Georgina Reilly",
+		"summary":"A language-born pathogen turns residents of a small Ontario town into murderous zombies.",
+		"dvd":"031"
+	},{
+		"id":"216",
+		"title":"The Time Traveler's Wife",
+		"director":"Robert Schwentke",
+		"released":"2009",
+		"genre":"2",
+		"tagline":"A love story.",
+		"cast":"Eric Bana, Rachel McAdams, Ron Livingston",
+		"summary":"A Chicago librarian has a defective gene that causes him to involuntarily time travel, and thus a marriage with some unique complications.",
+		"dvd":"031"
+	},{
+		"id":"217",
+		"title":"Whip It",
+		"director":"Drew Barrymore",
+		"released":"2009",
+		"genre":"2",
+		"tagline":"Be your own hero",
+		"cast":"Ellen Page, Drew Barrymore, Kristen Wiig",
+		"summary":"In Bodeen, Texas, an indie-rock loving misfit finds a way of dealing with her small-town misery after she discovers a roller derby league in nearby Austin.",
+		"dvd":"031"
+	},{
+		"id":"218",
+		"title":"World's Greatest Dad",
+		"director":"Bobcat Goldthwait",
+		"released":"2009",
+		"genre":"1",
+		"tagline":"Lance Clayton is about to get everything he deserves.",
+		"cast":"Robin Williams, Daryl Sabara, Morgan Murphy",
+		"summary":"An unsuccessful writer settles for life as a high school teacher, until his obnoxious son's death in a freak accident brings him the greatest opportunity of his life.",
+		"dvd":"031"
+	},{
+		"id":"219",
+		"title":"Pride and Prejudice",
+		"director":"Joe Wright",
+		"released":"2005",
+		"genre":"2",
+		"tagline":"A romance for the ages.",
+		"cast":"Keira Knightley, Matthew Macfadyen, Brenda Blethyn",
+		"summary":"The lives of five sisters in Georgian England are turned upside down when a wealthy young man and his arrogant best friend arrive in their neighborhood.",
+		"dvd":"033"
+	},{
+		"id":"220",
+		"title":"Agnes of God",
+		"director":"Norman Jewison",
+		"released":"1985",
+		"genre":"2",
+		"tagline":"Something unspeakable happened behind the third floor window.",
+		"cast":"Jane Fonda, Anne Bancroft, Meg Tilly",
+		"summary":"When a naive novice nun is discovered with a dead newborn in her convent quarters, a court appointed psychiatrist investigates her case.",
+		"dvd":"033"
+	},{
+		"id":"221",
+		"title":"Sunday in the Park with George",
+		"director":"Terry Hughes",
+		"released":"1985",
+		"genre":"6",
+		"cast":"Mandy Patinkin, Bernadette Peters",
+		"thumbnail":"He made a hat where there never was a hat.",
+		"summary":"Georges Seurat is torn between his lover, Dot, and his art as he paints his masterpiece, 'A Sunday Afternoon on the Island of Le Grande Jatte.'",
+		"dvd":"033"
+	},{
+		"id":"222",
+		"title":"Behind Enemy Lines",
+		"director":"John Moore",
+		"released":"2001",
+		"genre":"3",
+		"cast":"Gene Hackman, Owen Wilson",
+		"tagline":"In war there are some lines you shouldn't cross.",
+		"summary":"A Navy navigator is shot down over enemy territory and is ruthlessly pursued by a secret police enforcer. Meanwhile his commanding officer defies orders ito attempt a rescue.",
+		"dvd":"028"
+	},{
+		"id":"223",
+		"title":"Mr. & Mrs. Smith",
+		"director":"Doug Liman",
+		"released":"2005",
+		"genre":"3",
+		"cast":"Brad Pitt, Angelina Jolie, Adam Brody",
+		"tagline":"Who says romance is dead?",
+		"summary":"A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
+		"dvd":"028"
+	},{
+		"id":"224",
+		"title":"Raising Arizona",
+		"director":"Joel Coen",
+		"released":"",
+		"genre":"1",
+		"cast":"Nicolas Cage, Holly Hunter, John Goodman",
+		"tagline":"Their lawless years are behind them. Their child-rearing years lay ahead.",
+		"summary":"When a childless couple (an ex-con & an ex-cop) decide to help themselves to one of another family's quintupelets, their lives get more complicated than they'd anticipated.",
+		"dvd":"028"
+	},{
+		"id":"225",
+		"title":"Solaris",
+		"director":"Steven Soderbergh",
+		"released":"2002",
+		"genre":"4",
+		"cast":"George Clooney, Natascha McElhone",
+		"tagline":"There are some places Man is not ready to go.",
+		"summary":"A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+		"dvd":"030"
+	},{
+		"id":"226",
+		"title":"Hangover",
+		"director":"Todd Phillips",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Zach Galifianakis, Bradley Cooper, Justin Bartha",
+		"tagline":"Some guys just can't handle Vegas.",
+		"summary":"Three groomsmen lose their about-to-be-wed buddy during their drunken misadventures, then must retrace their steps in order to find him.",
+		"dvd":"030"
+	},{
+		"id":"227",
+		"title":"Gifted Hands: the Ben Carson Story",
+		"director":"Thomas Carter",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Ele Bardha, Loren Bass, Geoffrey Beauchamp",
+		"tagline":"His mother wouldn't take 'No' for an answer.",
+		"summary":"The true story of a black child raised by a single mother who helps him rise from being a poor student to the top of his class, and then on to become a world-famous neurosurgeon.",
+		"dvd":"030"
+	},{
+		"id":"228",
+		"title":"The Jane Austen Book Club",
+		"director":"Robin Swicord",
+		"released":"2007",
+		"genre":"2",
+		"cast":"Kathy Baker, Hugh Dancy, Amy Brenneman",
+		"tagline":"Six months. Six novels. Six members.",
+		"summary":"Six Californians start a Jane Austen book club, only to find their relationships begin to resemble 21st century versions of her novels.",
+		"dvd":"030"
+	},{
+		"id":"229",
+		"title":"Happy, Texas",
+		"director":"Mark Illsley",
+		"released":"1999",
+		"genre":"1",
+		"cast":"Jeremy Northam, Steve Zahn, William H. Macy",
+		"tagline":"They need pros. They're getting cons.",
+		"summary":"Two escaped convicts arrive in the town of Happy, Texas, where they are mistaken for a gay couple hired to direct the town's Little Miss Fresh Squeezed beauty pageant.",
+		"dvd":"030"
+	},{
+		"id":"230",
+		"title":"The Switch",
+		"director":"Josh Gordon, Will Speck",
+		"released":"2010",
+		"genre":"1",
+		"cast":"Jennifer Aniston, Jason Bateman, Patrick Wilson",
+		"tagline":"The most unexpected comedy ever conceived.",
+		"summary":"An unmarried 40-year-old woman turns to a turkey baster in order to become pregnant. Seven years later, she reunites with her best friend, who has been living with a secret: he replaced her preferred sperm sample with his own.",
+		"dvd":""
+	},{
+		"id":"231",
+		"title":"Winter's Bone",
+		"director":"Debra Granik",
+		"released":"2010",
+		"genre":"2",
+		"cast":"Jennifer Lawrence, John Hawkes, Garret Dillahunt",
+		"tagline":"Never turn your back on family.",
+		"summary":"An unflinching Ozark Mountain girl hacks through dangerous social terrain as she hunts down her drug-dealing father while trying to keep her family intact.",
+		"dvd":"001"
+	},{
+		"id":"232",
+		"title":"The Special Relationship",
+		"director":"Richard Loncraine",
+		"released":"2010",
+		"genre":"8",
+		"cast":"Michael Sheen, Demetri Goritsas, Adam Godley",
+		"tagline":"Even friendship is politics.",
+		"summary":"A dramatization of former U.K. prime minister Tony Blair's tense relationships with Bill Clinton and George W. Bush.",
+		"dvd":"001"
+	},{
+		"id":"233",
+		"title":"Stone of Destiny",
+		"director":"Charles Martin Smith",
+		"released":"2008",
+		"genre":"4",
+		"cast":"Charlie Cox, Kate Mara, Stephen McCole",
+		"tagline":"A heist 600 years in the making.",
+		"summary":"The story of Ian Hamilton, a dedicated nationalist who reignited Scottish national pride in the 1950s with his daring raid on the heart of England to bring the Stone of Scone back to Scotland.",
+		"dvd":"001"
+	},{
+		"id":"234",
+		"title":"1408",
+		"director":"Mikael Håfström",
+		"released":"2007",
+		"genre":"5",
+		"cast":"John Cusack, Samuel L. Jackson, Mary McCormack",
+		"tagline":"No one lasts more than an hour.",
+		"summary":"A man who specializes in debunking paranormal occurrences checks into the fabled room 1408 in the Dolphin Hotel.",
+		"dvd":"001"
+	},{
+		"id":"235",
+		"title":"Alice",
+		"director":"Nick Willing",
+		"released":"2009",
+		"genre":"7",
+		"cast":"Caterina Scorsone, Tim Curry, Colm Meaney, Kathy Bates",
+		"tagline":"Welcome to a whole new Wonderland.",
+		"summary":"The White Rabbit is a secret organization that works for the Queen of Hearts, abducting people from the real world (referred to as 'Oysters'), so they can be drained of their happiness.",
+		"dvd":"016"
+	},{
+		"id":"236",
+		"title":"Along Came a Spider",
+		"director":"Lee Tamahori",
+		"released":"2001",
+		"genre":"4",
+		"cast":"Morgan Freeman, Michael Wincott, Monica Potter",
+		"tagline":"The game is far from over.",
+		"summary":"A congressman's daughter under Secret Service protection is kidnapped from a private school by an insider who calls Det. Alex Cross, sucking him into the case even though he's still recovering from the loss of his partner.",
+		"dvd":"016"
+	},{
+		"id":"237",
+		"title":"Insomnia",
+		"director":"Christopher Nolan",
+		"released":"2002",
+		"genre":"4",
+		"cast":"Al Pacino, Robin Williams, Hilary Swank",
+		"tagline":"Don't close your eyes.",
+		"summary":"Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+		"dvd":"016"
+	},{
+		"id":"238",
+		"title":"Paper Moon",
+		"director":"Peter Bogdanovich",
+		"released":"1973",
+		"genre":"1",
+		"cast":"Ryan O'Neal, Tatum O'Neal, Madeline Kahn",
+		"tagline":"There's a sucker born every minute.",
+		"summary":"During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
+		"dvd":"016"
+	},{
+		"id":"239",
+		"title":"Clue",
+		"director":"Jonathan Lynn",
+		"released":"1985",
+		"genre":"1",
+		"cast":"Eileen Brennan, Tim Curry, Madeline Kahn, Christopher Lloyd",
+		"tagline":"It's not just a game anymore.",
+		"summary":"Six guests are invited to a strange house and must cooperate with the staff to solve a murder mystery.",
+		"dvd":"016"
+	},{
+		"id":"240",
+		"title":"Cold Souls",
+		"director":"Sophie Barthes",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Paul Giamatti, Emily Watson",
+		"tagline":"A soul-searching comedy.",
+		"summary":"An actor feels bogged down by his preparations for a Chekov play, until he finds a way to have his soul extracted and stored.",
+		"dvd":"013"
+	},{
+		"id":"241",
+		"title":"Door to Door",
+		"director":"Steven Schachter",
+		"released":"2002",
+		"genre":"2",
+		"cast":"William H. Macy, Kyra Sedgwick, Kathy Baker, Helen Mirren",
+		"tagline":"He wouldn't take 'no' for an answer.",
+		"summary":"A man with cerebral palsy is determined to become a salesman.",
+		"dvd":"013"
+	},{
+		"id":"242",
+		"title":"Coco Before Channel",
+		"director":"Anne Fontaine",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Audrey Tautou, Benoît Poelvoorde, Alessandro Nivola",
+		"tagline":"Before she was France's famous mademoiselle...",
+		"summary":"The story of Coco Chanel's rise from obscure beginnings to the heights of the fashion world.",
+		"dvd":"013"
+	},{
+		"id":"243",
+		"title":"I Love You to Death",
+		"director":"Lawrence Kasdan",
+		"released":"1990",
+		"genre":"1",
+		"cast":"Kevin Kline, Tracey Ullman, William Hurt, Keanau Reeves, River Phoenix",
+		"tagline":"When somebody shoot you in the head, it make you think.",
+		"summary":"A black comedy about the hapless wife of a pizzeria owner who decides to kill her cheating husband.",
+		"dvd":"013"
+	},{
+		"id":"244",
+		"title":"My Sister's Keeper",
+		"director":"Nick Cassavetes",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Cameron Diaz, Abigail Breslin, Alec Baldwin",
+		"tagline":"It's her life, too.",
+		"summary":"A girl seeks legal emancipation from her parents, who for years have relied on her as a donor to keep her leukemia-stricken sister alive.",
+		"dvd":"013"
+	},{
+		"id":"245",
+		"title":"Precious",
+		"director":"Lee Daniels",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Gabourey Sidibe, Mo'Nique, Paula Patton",
+		"tagline":"Life is hard. Life is painful. Life is....Precious.",
+		"summary":"In Harlem, an overweight, illiterate teen who is pregnant with her second child is invited to enroll in an alternative school in hopes that her life can head in a new direction.",
+		"dvd":"011"
+	},{
+		"id":"246",
+		"title":"Sherlock Holmes",
+		"director":"Guy Ritchie",
+		"released":"2009",
+		"genre":"7",
+		"cast":"Robert Downey Jr., Jude Law, Rachel McAdams",
+		"tagline":"Nothing escapes him",
+		"summary":"Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.",
+		"dvd":"011"
+	},{
+		"id":"247",
+		"title":"Shutter Island",
+		"director":"Martin Scorsese",
+		"released":"2010",
+		"genre":"4",
+		"cast":"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+		"tagline":"Someone is missing.",
+		"summary":"In 1954, U.S. Marshal Teddy Daniels investigates the disappearance of a murderess who escaped from a hospital for the criminally insane and is presumed to be hiding nearby.",
+		"dvd":"011"
+	},{
+		"id":"248",
+		"title":"The Damned United",
+		"director":"Tom Hooper",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Colm Meaney, Henry Goodman, David Roper",
+		"tagline":"They love me for what I'm not...they hate me for what I am.",
+		"summary":"A look at Brian Clough's 44-day reign as the coach of Leeds United.",
+		"dvd":"011"
+	},{
+		"id":"249",
+		"title":"Orphan",
+		"director":"Jaume Collet-Serra",
+		"released":"2009",
+		"genre":"5",
+		"cast":"Vera Farmiga, Peter Sarsgaard, Isabelle Fuhrman",
+		"tagline":"There's something wrong with Esther.",
+		"summary":"A husband and wife who recently lost their baby adopt a 9-year-old girl who is not nearly as innocent as she seems to be.",
+		"dvd":"009"
+	},{
+		"id":"250",
+		"title":"Up in the Air",
+		"director":"Jason Reitman",
+		"released":"2009",
+		"genre":"2",
+		"cast":"George Clooney, Vera Farmiga, Anna Kendrick",
+		"tagline":"The story of a man ready to make a connection.",
+		"summary":"With a job that has him traveling around the country firing people, Ryan Bingham leads an empty life out of a suitcase, until his company does the unexpected: grounds him.",
+		"dvd":"009"
+	},{
+		"id":"251",
+		"title":"The Informant",
+		"director":"Steven Soderbergh",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Matt Damon, Tony Hale, Patton Oswalt",
+		"tagline":"Based on a tattle-tale",
+		"summary":"The U.S. government decides to go after an agri-business giant with a price-fixing accusation, based on the evidence submitted by their star witness, vice president turned informant Mark Whitacre.",
+		"dvd":"009"
+	},{
+		"id":"252",
+		"title":"The Box",
+		"director":"Richard Kelly",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Cameron Diaz, James Marsden, Frank Langella",
+		"tagline":"All you have to do is push the button.",
+		"summary":"A small wooden box arrives on the doorstep of a married couple, who know that opening it will grant them a million dollars and kill someone they don't know.",
+		"dvd":"009"
+	},{
+		"id":"253",
+		"title":"Crazy Heart",
+		"director":"Scott Cooper",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Jeff Bridges, Maggie Gyllenhaal, Colin Farrell",
+		"tagline":"The harder the life, the sweeter the song.",
+		"summary":"A faded country music musician is forced to reassess his dysfunctional life during a doomed romance that also inspires him.",
+		"dvd":"007"
+	},{
+		"id":"254",
+		"title":"Easy Virtue",
+		"director":"Stephan Elliott",
+		"released":"2008",
+		"genre":"1",
+		"cast":"Jessica Biel, Ben Barnes, Kristin Scott Thomas",
+		"tagline":"In a family stifled in propriety, vice is a virtue.",
+		"summary":"A young Englishman marries a glamorous American. When he brings her home to meet the parents, she arrives like a blast from the future - blowing their entrenched British stuffiness out the window.",
+		"dvd":"007"
+	},{
+		"id":"255",
+		"title":"The Young Victoria",
+		"director":"Jean-Marc Vallée",
+		"released":"2009",
+		"genre":"8",
+		"cast":"Emily Blunt, Rupert Friend, Paul Bettany",
+		"tagline":"Her country. Her heart. Her majesty.",
+		"summary":"A dramatization of the turbulent first years of Queen Victoria's rule, and her enduring romance with Prince Albert.",
+		"dvd":"007"
+	},{
+		"id":"256",
+		"title":"Is Anybody There?",
+		"director":"John Crowley",
+		"released":"2008",
+		"genre":"1",
+		"cast":"Michael Caine, Bill Milner, Anne-Marie Duff",
+		"tagline":"",
+		"summary":"A 10-year-old boy growing up in an old people's home run by his parents develops a fascination with the afterlife.",
+		"dvd":"007"
+	},{
+		"id":"257",
+		"title":"Flawless",
+		"director":"Michael Radford",
+		"released":"2007",
+		"genre":"2",
+		"cast":"Demi Moore, Michael Caine, Lambert Wilson",
+		"tagline":"He had a scheme. She had a motive.",
+		"summary":"In 1960 London, a soon to retire janitor convinces a glass ceiling constrained American executive to help him steal a handful of diamonds from their employer.",
+		"dvd":"007"
+	},{
+		"id":"258",
+		"title":"It's Complicated",
+		"director":"Nancy Meyers",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Meryl Streep, Steve Martin, Alec Baldwin",
+		"tagline":"Divorced... with benefits.",
+		"summary":"When attending their son's college graduation, a couple reignite the spark in their relationship...but the problem is they're divorced and he's remarried.",
+		"dvd":"002"
+	},{
+		"id":"259",
+		"title":"The Book of Eli",
+		"director":"Albert Hughes, Allen Hughes",
+		"released":"2010",
+		"genre":"7",
+		"cast":"Denzel Washington, Gary Oldman, Mila Kunis",
+		"tagline":"Deliver us from darkness",
+		"summary":"A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.",
+		"dvd":"002"
+	},{
+		"id":"260",
+		"title":"Pirate Radio",
+		"director":"Richard Curtis",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Philip Seymour Hoffman, Bill Nighy, Nick Frost",
+		"tagline":"They rocked. They rolled. Then they sank.",
+		"summary":"An illegal radio station in the North Sea in the 1960s fights to stay on the air.",
+		"dvd":"002"
+	},{
+		"id":"261",
+		"title":"The Ghost Writer",
+		"director":"Roman Polanski",
+		"released":"2010",
+		"genre":"4",
+		"cast":"Ewan McGregor, Pierce Brosnan, Olivia Williams",
+		"tagline":"Read between the lies.",
+		"summary":"A ghostwriter hired to complete the memoirs of a former British prime minister uncovers secrets that put his own life in jeopardy.",
+		"dvd":"002"
+	},{
+		"id":"262",
+		"title":"The Omen",
+		"director":"John Moore",
+		"released":"2006",
+		"genre":"5",
+		"cast":"Liev Schreiber, Julia Stiles, Seamus Davey-Fitzpatrick",
+		"tagline":"Let him that hath understanding count the number of the beast.",
+		"summary":"In a remake of the horror classic The Omen (1976), an American official realizes that his young son may be the devil incarnate.",
+		"dvd":"002"
+	},{
+		"id":"263",
+		"title":"Fever Pitch",
+		"director":"David Evans",
+		"released":"1997",
+		"genre":"1",
+		"cast":"Colin Firth, Ruth Gemmell, Luke Aikman",
+		"tagline":"Life gets complicated when you love one woman and worship eleven men.",
+		"summary":"An English teacher believes his long standing obsession with Arsenal serves him well. But then he meets Sarah.",
+		"dvd":"004"
+	},{
+		"id":"264",
+		"title":"Kiss the Girls",
+		"director":"Gary Fleder",
+		"released":"1997",
+		"genre":"4",
+		"cast":"Morgan Freeman, Ashley Judd, Cary Elwes, Jeremy Piven",
+		"tagline":"A detective is searching for a deadly collector. His only hope is the woman who got away.",
+		"summary":"Police hunting a serial killer get a break when for the first time a victim manages to escape.",
+		"dvd":"004"
+	},{
+		"id":"265",
+		"title":"The Other Man",
+		"director":"Richard Eyre",
+		"released":"2008",
+		"genre":"4",
+		"cast":"Liam Neeson, Antonio Banderas, Laura Linney",
+		"tagline":"Is knowing the truth worth living a lie?",
+		"summary":"The story of a husband who suspects his wife of adultery, and sets out to track down the other man in her life.",
+		"dvd":"004"
+	},{
+		"id":"266",
+		"title":"The Straight Story",
+		"director":"David Lynch",
+		"released":"1999",
+		"genre":"7",
+		"cast":"Richard Farnsworth, Sissy Spacek",
+		"tagline":"",
+		"summary":"An old man makes a long journey by tractor to mend his relationship with an ill brother.",
+		"dvd":"004"
+	},{
+		"id":"267",
+		"title":"The Dish",
+		"director":"Rob Sitch",
+		"released":"2000",
+		"genre":"1",
+		"cast":"Sam Neill, Billy Mitchell, Roz Hammond",
+		"tagline":"Houston's other problem.",
+		"summary":"A remote Australian antenna, staffed by quirky characters, plays a key role in the first Apollo moon landing.",
+		"dvd":"008"
+	},{
+		"id":"268",
+		"title":"The 40 Year Old Virgin",
+		"director":"Judd Apatow",
+		"released":"2005",
+		"genre":"1",
+		"cast":"Steve Carell, Catherine Keener and Paul Rudd",
+		"tagline":"Better late than never.",
+		"summary":"Goaded by his buddies, a nerdy guy who's never 'done the deed' only finds the pressure mounting when he meets a single mother.",
+		"dvd":"008"
+	},{
+		"id":"269",
+		"title":"Jurrasic Park",
+		"director":"Steven Spielberg",
+		"released":"1993",
+		"genre":"7",
+		"cast":"Sam Neill, Laura Dern, Jeff Goldblum",
+		"tagline":"A movie 65 million years in the making.",
+		"summary":"During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaurs to run amok.",
+		"dvd":"008"
+	},{
+		"id":"270",
+		"title":"Unbreakable",
+		"director":"M. Night Shyamalan",
+		"released":"2000",
+		"genre":"4",
+		"cast":"Bruce Willis, Samuel L. Jackson, Robin Wright",
+		"tagline":"Some truths are only revealed by accident.",
+		"summary":"The sole survivor of a horrific train-crash is approached by a peculiar man with a far fetched theory as to why he hasn't a scratch on him.",
+		"dvd":"008"
+	},{
+		"id":"271",
+		"title":"City Island",
+		"director":"Raymond De Felitta",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Andy Garcia, Julianna Margulies, Steven Strait",
+		"tagline":"Truth is stranger than family.",
+		"summary":"A dysfunctional family finds its delicate web of lies disturbed by the arrival of a young ex-con in their midst.",
+		"dvd":"010"
+	},{
+		"id":"272",
+		"title":"Hope Springs",
+		"director":"Mark Herman",
+		"released":"2003",
+		"genre":"1",
+		"cast":"Colin Firth, Minnie Driver, Mary Steenburgen",
+		"tagline":"She loves me... she loves me not.",
+		"summary":"A British artist holed up in a rundown hotel after being dumped by his fiancée learns that the hotel manager fancies herself a matchmaker.",
+		"dvd":"010"
+	},{
+		"id":"273",
+		"title":"Children of a Lesser God",
+		"director":"Randa Haines",
+		"released":"1986",
+		"genre":"2",
+		"cast":"William Hurt, Marlee Matlin, Piper Laurie",
+		"tagline":"Love has a language all of its own.",
+		"summary":"A new speech teacher at a school for the deaf falls for a pupil who decided to stay on at the school rather than venture into the big bad world.",
+		"dvd":"010"
+	},{
+		"id":"274",
+		"title":"The Joneses",
+		"director":"Derrick Borte",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Demi Moore, David Duchovny, Amber Heard",
+		"tagline":"Some families are too good to be true.",
+		"summary":"A seemingly perfect family moves into a suburban neighborhood, but when it comes to the truth as to why they're living there, they don't exactly come clean with their neighbors.",
+		"dvd":"010"
+	},{
+		"id":"275",
+		"title":"Cyrus",
+		"director":"Jay Duplass, Mark Duplass",
+		"released":"2010",
+		"genre":"2",
+		"cast":"John C. Reilly, Marisa Tomei, Jonah Hill",
+		"tagline":"John met the woman of his dreams. Then he met her son ...",
+		"summary":"A down on his luck divorcé finally meets the woman of his dreams, only to discover she has another man in her life -- her weirdly possessive son.",
+		"dvd":"005"
+	},{
+		"id":"276",
+		"title":"The American",
+		"director":"Anton Corbijn",
+		"released":"2010",
+		"genre":"4",
+		"cast":"George Clooney, Paolo Bonacelli, Violante Placido",
+		"tagline":"All men are sinners.",
+		"summary":"A jaded assassin hiding out in Italy decides to take on one last assignment.",
+		"dvd":"005"
+	},{
+		"id":"277",
+		"title":"The Kids Are All Right",
+		"director":"Lisa Cholodenko",
+		"released":"2010",
+		"genre":"1",
+		"cast":"Annette Bening, Julianne Moore, Mark Ruffalo, Mia Wasikowska",
+		"tagline":"Nic and Jules had the perfect family, until they met the man who made it all possible.",
+		"summary":"Two children conceived by artificial insemination bring their birth father into their family life.",
+		"dvd":"005"
+	},{
+		"id":"278",
+		"title":"Walk the Line",
+		"director":"James Mangold",
+		"released":"2005",
+		"genre":"2",
+		"cast":"Joaquin Phoenix, Reese Witherspoon",
+		"tagline":"Love is a burning thing.",
+		"summary":"A chronicle of Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis.",
+		"dvd":"005"
+	},{
+		"id":"279",
+		"title":"The Town",
+		"director":"Ben Affleck",
+		"released":"2010",
+		"genre":"4",
+		"cast":"Ben Affleck, Rebecca Hall, Jon Hamm",
+		"tagline":"Welcome to the bank robbery capital of America.",
+		"summary":"As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.",
+		"dvd":"005"
+	},{
+		"id":"281",
+		"title":"Mo Better Blues",
+		"director":"Spike Lee",
+		"released":"1990",
+		"genre":"2",
+		"cast":"Denzel Washington, Spike Lee, Wesley Snipes",
+		"tagline":"A Spike Lee joint.",
+		"summary":"Bleek's and Shadow's onstage rivalry spills into their professional relationship and threatens to tear apart their successful jazz quartet.",
+		"dvd":"022"
+	},{
+		"id":"282",
+		"title":"Little Man Tate",
+		"director":"Jodie Foster",
+		"released":"1991",
+		"genre":"2",
+		"cast":"Jodie Foster, Dianne Wiest, Adam Hann-Byrd",
+		"tagline":"It's not what he knows. It's what he understands.",
+		"summary":"An exotic dancer raising a genius son on her own is determined to ensure he has all the opportunities he needs.",
+		"dvd":"022"
+	},{
+		"id":"283",
+		"title":"The Social Network",
+		"director":"David Fincher",
+		"released":"2010",
+		"genre":"2",
+		"cast":"Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+		"tagline":"You don't get to 500 million friends without making a few enemies.",
+		"summary":"A chronicle of the infighting behind the founding of Facebook.",
+		"dvd":"022"
+	},{
+		"id":"284",
+		"title":"Dinner for Schmucks",
+		"director":"Jay Roach",
+		"released":"2010",
+		"genre":"1",
+		"cast":"Steve Carell, Paul Rudd, Zach Galifianakis",
+		"tagline":"Takes one to know one.",
+		"summary":"When he finds out that his work superiors host a dinner celebrating the idiocy of their guests, a rising executive questions it when he's invited, just as he befriends a man who would be the perfect guest.",
+		"dvd":"022"
+	},{
+		"id":"285",
+		"title":"12 Monkeys",
+		"director":"Terry Gilliam",
+		"released":"1995",
+		"genre":"4",
+		"cast":"Bruce Willis, Madeleine Stowe, Brad Pitt",
+		"tagline":"The future is history.",
+		"summary":"In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+		"dvd":"003"
+	},{
+		"id":"286",
+		"title":"An Education",
+		"director":"Lone Scherfig",
+		"released":"2009",
+		"genre":"2",
+		"cast":"",
+		"tagline":"A screenplay by Nick Hornby",
+		"summary":"A coming-of-age story about a teenage girl in 1960s suburban London, and how her life changes with the arrival of a playboy nearly twice her age.",
+		"dvd":"003"
+	},{
+		"id":"287",
+		"title":"Angels and Insects",
+		"director":"Philip Haas",
+		"released":"1995",
+		"genre":"2",
+		"cast":"Mark Rylance, Kristin Scott Thomas, Patsy Kensit",
+		"tagline":"An elegant seduction. An erotic deception. A stunning revelation.",
+		"summary":"In the 1800s a British naturalist marries into a family of Victorian aristocrats who are not what they seem.",
+		"dvd":"003"
+	},{
+		"id":"288",
+		"title":"Creation",
+		"director":"Jon Amiel",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Paul Bettany, Jennifer Connelly, Ian Kelly",
+		"tagline":"The way he saw the world changed it forever.",
+		"summary":"English naturalist Charles Darwin struggles to find a balance between his revolutionary theories on evolution and the relationship with religious wife, whose faith contradicts his work.",
+		"dvd":"003"
+	},{
+		"id":"289",
+		"title":"Adam",
+		"director":"Max Mayer",
+		"released":"2009",
+		"genre":"2",
+		"cast":"Hugh Dancy, Rose Byrne, Peter Gallagher",
+		"tagline":"A story about two strangers, one a little stranger than the other.",
+		"summary":"Adam, a lonely man with Asperger's Syndrome, develops a relationship with his upstairs neighbor, Beth.",
+		"dvd":"003"
+	},{
+		"id":"290",
+		"title":"Bleak House",
+		"director":"Justin Chadwick, Susanna White",
+		"released":"2005",
+		"genre":"2",
+		"cast":"Anna Maxwell Martin, Carey Mulligan, Gillian Anderson, Denis Lawson",
+		"tagline":"Shake me up, Judy!",
+		"summary":"A suspenseful tale about the injustices of the 19th-century English legal system.",
+		"dvd":"014"
+	},{
+		"id":"291",
+		"title":"Lone Star",
+		"director":"John Sayles",
+		"released":"1996",
+		"genre":"2",
+		"cast":"Chris Cooper, Elizabeth Peña, Stephen Mendillo",
+		"tagline":"Don't ask a question if you don't want the answer.",
+		"summary":"When the skeleton of his murdered predecessor is found, Sheriff Sam Deeds unearths many other long-buried secrets in his Texas border town.",
+		"dvd":"023"
+	},{
+		"id":"292",
+		"title":"A Bridge Too Far",
+		"director":"Richard Attenborough",
+		"released":"1977",
+		"genre":"3",
+		"cast":"Sean Connery, Ryan O'Neal, Michael Caine, Gene Hackman, Athony Hopkins, Elliott Gould",
+		"tagline":"his is a story you will tell your grandchildren; and mightily bored they'll be.",
+		"summary":"An historic telling of the failed attempt to capture several bridges to Germany in World War II in a campaign called Operation Market-Garden.",
+		"dvd":"023"
+	},{
+		"id":"293",
+		"title":"Double Jeopardy",
+		"director":"Bruce Beresford",
+		"released":"1999",
+		"genre":"2",
+		"cast":"Ashley Judd, Tommy Lee Jones, Bruce Greenwood",
+		"tagline":"Murder isn't always a crime.",
+		"summary":"A woman framed for her husband's murder suspects he is still alive; as she has already been tried for the crime, she can't be re-prosecuted if she finds and kills him.",
+		"dvd":"023"
+	},{
+		"id":"294",
+		"title":"Timer",
+		"director":"Jac Schaeffer",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Emma Caulfield, Michelle Borth, John Patrick Amedori",
+		"tagline":"You can't hurry love.",
+		"summary":"Staring down the barrel of thirty and tired of waiting for true love to show up, Oona breaks her own rules and falls for a charming and inappropriately young supermarket clerk.",
+		"dvd":"023"
+	},{
+		"id":"300",
+		"title":"Away We Go",
+		"director":"Sam Mendes",
+		"released":"2009",
+		"genre":"1",
+		"cast":"John Krasinski, Maya Rudolph, Allison Janney",
+		"tagline":"You have to be willing to make a family out of whatever you have.",
+		"summary":"A couple expecting their first child travel around the U.S. to find a perfect place to start their family. Along the way, they have misadventures and connect with an assortment of odd people.",
+		"dvd":"004"
+	},{
+		"id":"301",
+		"title":"A Serious Man",
+		"director":"Ethan Coen, Joel Coen",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Michael Stuhlbarg, Richard Kind, Sari Lennick",
+		"tagline":"No Jews were harmed in the making of this motion picture.",
+		"summary":"A Midwestern professor, watching his life suddenly unravel, seeks meaning and answers but seems to remain stalled.",
+		"dvd":"055"
+	},{
+		"id":"302",
+		"title":"I Sell the Dead",
+		"director":"Glenn McQuaid",
+		"released":"2008",
+		"genre":"1",
+		"cast":"Dominic Monaghan, Ron Perlman, Larry Fessenden",
+		"tagline":"Never trust a corpse.",
+		"summary":"With only a few hours to go before his date with the guillotine, an 18th century professional graverobber tells his life story to a priest.",
+		"dvd":"055"
+	},{
+		"id":"303",
+		"title":"I Love You, Phillip Morris",
+		"director":"Glenn Ficarra, John Requa",
+		"released":"2009",
+		"genre":"1",
+		"cast":"Jim Carrey, Ewan McGregor, Leslie Mann",
+		"tagline":"Do some time with the one you love.",
+		"summary":"A con artist meets the love of his life in prison, but after his release his criminal hijinks make it difficult to maintain a relationship.",
+		"dvd":"055"
+	},{
+		"id":"304",
+		"title":"Made in Dagenham",
+		"director":"Nigel Cole",
+		"released":"2010",
+		"genre":"2",
+		"cast":"Sally Hawkins, Bob Hoskins, Miranda Richardson",
+		"tagline":"In 1968, it's a man's world. But not for much longer.",
+		"summary":"A British auto worker refuses to tolerate gender inequality any longer and leads a strike by her fellow machinists for equal pay.",
+		"dvd":"055"
+	},{
+		"id":"305",
+		"title":"Million Dollar Baby",
+		"director":"Clint Eastwood",
+		"released":"2004",
+		"genre":"2",
+		"cast":"Hilary Swank, Clint Eastwood, Morgan Freeman",
+		"tagline":"There is magic in fighting battles beyond endurance.",
+		"summary":"A hardened trainer works with a determined woman in her attempt to establish herself as a prize fighter.",
+		"dvd":"055"
+	},{
+		"id":"306",
+		"title":"Red Dragon",
+		"director":"Brett Ratner",
+		"released":"2002",
+		"genre":"4",
+		"cast":"Anthony Hopkins, Edward Norton, Ralph Fiennes",
+		"tagline":"To understand evil, you must seek its origin.",
+		"summary":"A retired FBI agent with psychological gifts is asked to help track down 'The Tooth Fairy', a serial killer; aiding him is imprisoned criminal genius Hannibal Lecter.",
+		"dvd":"061"
+	},{
+		"id":"307",
+		"title":"The King's Speech",
+		"director":"Tom Hooper",
+		"released":"2010",
+		"genre":"2",
+		"cast":"Colin Firth, Geoffrey Rush, Helena Bonham Carter",
+		"tagline":"When God couldn't save the king, the queen turned to someone who could.",
+		"summary":"The story of King George VI of Britain, his impromptu ascension to the throne, and the speech therapist who helped the uncertain monarch become worthy of it.",
+		"dvd":"061"
+	},{
+		"id":"308",
+		"title":"Twenty Bucks",
+		"director":"Keva Rosenfeld",
+		"released":"1993",
+		"genre":"2",
+		"cast":"Linda Hunt, Brendan Fraser, Elisabeth Shue, William H. Macy, Steve Buscemi, Christopher Lloyd",
+		"tagline":"When you pass the buck, the last thing you expect is change.",
+		"summary":"A $20 bill weaves in and out of the lives of a homeless woman, an aspiring writer, a stripper, two thieves, and teenage chef.",
+		"dvd":"061"
+	},{
+		"id":"309",
+		"title":"Leaving Las Vegas",
+		"director":"Mike Figgis",
+		"released":"1995",
+		"genre":"2",
+		"cast":"Nicolas Cage, Elisabeth Shue",
+		"tagline":"Until death do them part.",
+		"summary":"An alcoholic Hollywood screenwriter who has lost everything arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with a prostitute.",
+		"dvd":"064"
+	},{
+		"id":"",
+		"title":"",
+		"director":"",
+		"released":"",
+		"genre":"",
+		"cast":"",
+		"tagline":"",
+		"summary":"",
+		"dvd":""
+	}
+	]
+}

@@ -1,0 +1,158 @@
+body {
+	background-color:#81A594;	
+}
+#scrollPane {
+	position: absolute;
+	top: 20px;
+	left: 20px;	
+	width: 350px;
+	height: 560px;
+	padding: 10px;
+	border: solid 2px #00628B;
+	font-size: 14;
+	font-family: verdana;
+	font-weight: normal;
+	background-color: #F7F7ED;	
+	z-index: 1;
+	overflow-y:scroll;
+}
+
+#detailPane {
+	position: absolute;
+	top: 20px;	
+	left: 400px;	
+	width:520px;
+	height:350px;
+	padding-left: 10px;
+	padding-right: 10px;	
+	z-index:1;
+	border: solid 2px #00628B;
+	background-color: #F7F7ED;	
+	overflow-y:auto;	
+	font-size: 13;
+	font-family: verdana;
+	font-weight: normal;	
+}
+
+#searchPane {
+	position: absolute;
+	top: 380px;	
+	left: 400px;	
+	width:520px;
+	height:200px;
+	padding: 10px;	
+	z-index:1;
+	border: solid 2px #00628B;
+	color: #00628B;
+	background-color: #F7F7ED;
+	font-size: 14;
+	font-family: verdana;
+	font-weight: normal;
+	line-height: 26px;
+}
+		
+#searchCriteriaDiv {	
+	width:300px;
+	border: solid 1px;
+}
+
+#resultsText {	
+	color: #00628B;
+}
+
+		
+.scrollpaneTitle {
+		font-size: 16;
+		font-family: "Arial";
+		font-weight: bold;
+		cursor: pointer; 
+		cursor: hand;		
+		}
+		 		 
+.scrollpaneSummary {
+		font-size: 12;
+		font-family: "Arial"; 
+		height: 70px;
+		}
+
+		 		 
+.scrollpaneImage {
+		float: right;
+		margin-top: 10px;
+		margin-left: 15px;		
+		border: solid 1px;
+		cursor: pointer; 
+		cursor: hand;		
+		height: 110px;		
+		}		
+		
+.scrollpaneDiv {
+		cursor: pointer; 
+		cursor: hand;
+		border: solid 1px #DDDDDD;
+		}
+
+.detailpaneTitle {
+		font-size: 20;
+		font-family: arial;
+		font-weight: bold;		
+		}
+		
+.detailpaneImage {
+		float: right;
+		margin-top: 25px;
+		margin-left: 15px;		
+		border: solid 1px;	
+		height: 270px;
+		}	
+
+.hangingindent {
+    padding-left: 22px ;
+    text-indent: -22px ;
+}
+		
+.floatRight {
+	float: right;
+}
+			
+		
+/*
+
+	
+a:link { color: #ff8080 }
+
+a:visited { color: #ff0000 }
+
+a:active { color: #a05050 }
+
+a.case1:link { background: green }
+
+p:first-line { margin-left: 25px }
+
+div.foo:first-line {
+		 font-weight: bold;
+		 margin-left: 30px }
+div:first-letter {
+		 font-size: x-large;
+		 color: #ffffff }
+ul ul li {
+		 font-size: x-large;
+		 font-decoration: italic }
+		 
+h2 em { font-weight: 900 }
+		 
+.class1, #tagid2 { font-family: 'comic sans ms', fantasy; color: rgb(100%,100%,0%) }
+
+h1, h2, div.class5, blockquote { background: #000080 }
+
+p.special {
+		 font: 12pt/14pt sans-serif;
+		 margin: 5px 0px 2px 25px;
+		 border: medium dashed #ff0000;
+		 background: white url(http://www.foo.com/image.gif) repeat-x fixed top right }
+		 		 
+h6 {
+		 font-size: xx-small ! important;
+		 color: red ! important } 
+
+*/

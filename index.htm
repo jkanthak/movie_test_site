@@ -1,0 +1,278 @@
+<html>
+<head>
+	<title>Kanthak Movie dBase</title>
+	<link rel="stylesheet" type="text/css" href="css/filmDbase.css" />
+	<script type="text/javascript" src="scripts/jquery.js"></script>
+	<script type="text/javascript" src="scripts/movies.js"></script>	
+	<script type="text/javascript">
+	$(document).ready(function(){
+			
+		//Add ALL movies to scrollpane
+		showAll("id");
+		
+		//Populate detailpane on movie click
+		showDetailsOnClick();
+		
+		// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>		
+		//Build searchpane
+		$('#searchPane').append(
+			'<b>Search term:&nbsp;</b><input type="text" id="searchField" class="floatRight" style="width:78%"/> <br/>',
+			'<input type="radio" name="searchin" value="anywhere" checked="checked" />&nbsp;Anywhere',
+			'<input type="radio" name="searchin" value="title" />&nbsp;Title&nbsp;',
+			'<input type="radio" name="searchin" value="director" />&nbsp;Director&nbsp;',
+			'<input type="radio" name="searchin" value="cast" />&nbsp;Cast&nbsp;',
+			'<input type="radio" name="searchin" value="released" />&nbsp;Released&nbsp;',			
+			'<input type="radio" name="searchin" value="summary" />&nbsp;Summary&nbsp;<br/><br/>',			
+			'<input id="searchBtn" type="submit" value="Search" />&nbsp;&nbsp;<input id="showAllBtn" type="submit" value="Show All" /><br/><br/>',
+			'<b>Sort by:</b>&nbsp;&nbsp;<input type="radio" name="sortby" value="title" checked="checked" />&nbsp;Title&nbsp;',
+			'<input type="radio" name="sortby" value="released" />&nbsp;Released&nbsp;',
+			'<input type="radio" name="sortby" value="genre" />&nbsp;Genre&nbsp;',
+       			'<input type="radio" name="sortby" value="length" />&nbsp;Length&nbsp;',
+			'<input type="radio" name="sortby" value="id" />&nbsp;ID&nbsp;<br/>',
+			'<p id="resultsText"></p>'
+		);
+		// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+		// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>		
+		//Wire Search button
+		$('#searchBtn').click(function(){
+			searchDBase();
+		}); 
+		// ====================================
+		//Wire Enter key for search
+		$(window).keypress(function(e) {
+			if(e.keyCode == 13) {
+				if ($('#searchField').is(":focus")) {
+				//alert("pressed");
+				searchDBase();
+				}
+			}
+		});
+		// ====================================
+		//Wire Show All button
+		$('#showAllBtn').click(function(){
+			$('#resultsText').empty();
+			showAll();
+			//Populate detailpane on movie click
+			showDetailsOnClick();
+			//Display collection count
+			$('#resultsText').html(movies.length + " in dBase");			
+		}); 
+		// ====================================
+		//Wire Sort radio buttons		
+		$("input[name='sortby']").change(function(){
+			var sortBy = $('input[name=sortby]:checked').val();
+			showAll(sortBy);
+		});
+			
+	}); //End of document.ready function
+	
+	// ##################################################################################
+	// ##################################################################################
+	
+	//Populate detailpane on movie click
+	function showDetailsOnClick() {
+		$('.scrollpaneTitle,.scrollpaneImage').click(function(){
+			$('#detailPane').empty();
+			var filmID = $(this).attr("id");
+			for (i=0; i<movies.length; i++) {
+				if (movies[i].id == filmID) {
+					var genre = parseInt(movies[i].genre)-1;
+					$("#detailPane").append(
+						'<img src="images/' + movies[i].id + '.jpg" id="' + movies[i].id + '" class="detailpaneImage">',
+						'<p class="detailpaneTitle">' + movies[i].title + '</p>',
+						'<b>ID:&nbsp;</b> ' + movies[i].id + '<br/>',
+						'<b>Director:&nbsp;</b> ' + movies[i].director + '<br/>',
+						'<b>Released:&nbsp;</b> ' + movies[i].released + '&nbsp;&nbsp;&nbsp;<b>Genre:&nbsp;</b> ' + genres[genre] + '<br/>',
+						'<b>Rating:&nbsp;</b> ' + movies[i].rating + '&nbsp;&nbsp;&nbsp;<b>Running time:&nbsp;</b> ' + movies[i].runningtime.toString() + ' min.<br/>',			
+                                                '<b>Tagline:&nbsp;</b> "<em>' + movies[i].tagline + '</em>"<br/>',
+						'<b>Cast:&nbsp;</b> ' + movies[i].cast + '<br/>',
+						'<p class="hangingindent"><b>Summary:&nbsp;</b> ' + movies[i].summary + '<br/></p>',
+						'<b>DVD:</b>  ' + movies[i].dvd + '<br/>'
+					);				
+				break;
+				}
+			}
+		});			
+	}	
+	// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	
+	function searchDBase(){
+		var testVal = $('#searchField').val();
+		if (!testVal) {
+			$('#scrollPane').empty();
+			$('#scrollPane').append(
+				'<p>Please enter search term.</p>'
+			);	
+			return;
+		}
+		var resultFilms = [];
+		var radioValue = $("input[name=searchin]:checked").val();
+		var searchTarget;
+		var searchTerm = $('#searchField').val().toLowerCase();
+
+		//Search Movies array
+		for (i=0; i<movies.length; i++) {
+			switch (radioValue) {
+				case "title" :
+					searchTarget = movies[i].title.toLowerCase();							
+				break;
+				case "director" :
+					searchTarget = movies[i].director.toLowerCase();					
+				break;
+				case "cast" :
+					searchTarget = movies[i].cast.toLowerCase();							
+				break;
+				case "released" :
+					searchTarget = movies[i].released.toLowerCase();						
+				break;						
+				case "summary" :
+					searchTarget = movies[i].summary.toLowerCase();					
+				break;
+			}
+			if (radioValue != "anywhere") { // Search using above-assigned searchTarget...
+				if (searchTarget.indexOf(searchTerm) !== -1) {
+					resultFilms.push(movies[i]);
+				}	
+			} else { //...else the radio value is 'Anywhere'
+				searchTarget = movies[i].title.toLowerCase();
+
+				if (searchTarget.indexOf(searchTerm) !== -1) {
+					resultFilms.push(movies[i]);
+				}						
+				searchTarget = movies[i].director.toLowerCase();
+				if (searchTarget.indexOf(searchTerm) !== -1) {
+					resultFilms.push(movies[i]);
+				}	
+				searchTarget = movies[i].cast.toLowerCase();
+				if (searchTarget.indexOf(searchTerm) !== -1) {
+					resultFilms.push(movies[i]);
+				}									
+				searchTarget = movies[i].released.toLowerCase();
+				if (searchTarget.indexOf(searchTerm) !== -1) {
+					resultFilms.push(movies[i]);
+				}
+				searchTarget = movies[i].rating.toLowerCase();
+				if (searchTarget.indexOf(searchTerm) !== -1) {
+					resultFilms.push(movies[i]);
+				}                                
+				searchTarget = movies[i].summary.toLowerCase();
+				if (searchTarget.indexOf(searchTerm) !== -1) {
+					resultFilms.push(movies[i]);
+				}								
+			}
+			// ===================================
+			// Purge results array of redundancies
+		   var newArray=new Array();
+			label:for(var m=0; m<resultFilms.length;m++ )
+			{  
+			  for(var n=0; n<newArray.length;n++ )
+			  {
+				if(newArray[n]==resultFilms[m]) 
+				continue label;
+			  }
+			  newArray[newArray.length] = resultFilms[m];
+			}
+			resultFilms = newArray;				
+		} 
+
+		// =====================================
+		//Populate scrollpane with result movies
+		$('#scrollPane').scrollTop(0);
+		$('#scrollPane').empty();
+		if (resultFilms.length > 0) {
+			for (j=0; j<resultFilms.length; j++) {
+				$('#scrollPane').append(
+					'<img src="images/' + resultFilms[j].id + '.jpg" id="' + resultFilms[j].id + '" class="scrollpaneImage">',
+					'<p class="scrollpaneTitle"id="' + resultFilms[j].id + '" >' + resultFilms[j].title + '</p>',
+					'<p class="scrollpaneSummary">' + resultFilms[j].summary + '</p>',
+					'<div id="' + resultFilms[j].id + '" class="scrollpaneDiv"></div>'
+				);
+			}
+		} else {
+			$('#scrollPane').append(
+				'<p>No matches found.</p>'
+			);					
+		}
+		// =================================
+		//Populate detailpane on movie click
+		showDetailsOnClick();
+		// =================================
+		//Display message re: results
+		$('#resultsText').html(resultFilms.length + " match(es) found");
+		
+	}	
+	// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	
+	
+	function showAll(sortBy) {
+		if (sortBy) {
+			var sortCrit = sortBy;
+			
+			function sortByTitle(a, b) {
+				var x = a.title.toLowerCase();
+				var y = b.title.toLowerCase();
+				return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+			}
+			function sortByReleased(a, b) {
+				var x = a.released.toLowerCase();
+				var y = b.released.toLowerCase();
+				return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+			}
+			function sortByGenre(a, b) {
+				var x = a.genre.toLowerCase();
+				var y = b.genre.toLowerCase();
+				return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+			}	
+                        function sortByLength(a, b) {
+				var x = a.runningtime;
+				var y = b.runningtime;
+				return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+			}	
+			function sortByID(a, b) {
+				var x = a.id.toLowerCase();
+				var y = b.id.toLowerCase();
+				return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+			}				
+			
+			switch(sortCrit) {
+				case "title" :
+					movies.sort(sortByTitle);						
+				break;
+				case "released" :
+					movies.sort(sortByReleased);						
+				break;			
+				case "genre" :
+					movies.sort(sortByGenre);
+                                break;
+				case "length" :
+					movies.sort(sortByLength);						
+				break;		
+				case "id" :
+					movies.sort(sortByID);						
+				break;				
+			}
+		}
+		$('#searchField').val('');
+		$('#scrollPane').empty();	
+		$('#scrollPane').scrollTop();
+		for (i=0; i<movies.length; i++) {
+			$('#scrollPane').append(
+				'<img src="images/' + movies[i].id + '.jpg" id="' + movies[i].id + '" class="scrollpaneImage">',
+				'<p class="scrollpaneTitle"id="' + movies[i].id + '" >' + movies[i].title + '</p>',
+				'<p class="scrollpaneSummary">' + movies[i].summary + '</p>',
+				'<div id="' + movies[i].id + '" class="scrollpaneDiv"></div>'
+			);
+		}
+		showDetailsOnClick();
+	}
+	
+	</script>
+</head>
+
+<body>
+	<div id="scrollPane"></div>
+	<div id="detailPane"></div>
+	<div id="searchPane"></div>
+</body>
+</html> 
